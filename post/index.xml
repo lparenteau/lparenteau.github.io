@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>POST on Laurent Parenteau is in the snow</title>
+    <link>https://laurentparenteau.com/post/</link>
+    <description>Recent content in POST on Laurent Parenteau is in the snow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Laurent Parenteau</copyright>
+    <lastBuildDate>Fri, 10 May 2019 19:06:29 -0400</lastBuildDate>
+    
+	<atom:link href="https://laurentparenteau.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Leadership Lessons from Parenting</title>
+      <link>https://laurentparenteau.com/post/leadership-lessons-from-parenting/</link>
+      <pubDate>Fri, 10 May 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/post/leadership-lessons-from-parenting/</guid>
+      <description>&lt;p&gt;Learning comes from all activities, and interacting with children actually teach you many great lessons applicable to leadership. Or is it the other way around? That’s a debate for another day. Whether you have kids or not, those lessons are relevant for anyone in a leadership position or looking for it.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Beyond Fixed Sprint Duration</title>
+      <link>https://laurentparenteau.com/post/beyond-fixed-sprints-duration/</link>
+      <pubDate>Sat, 13 Apr 2019 19:06:29 -0500</pubDate>
+      
+      <guid>https://laurentparenteau.com/post/beyond-fixed-sprints-duration/</guid>
+      <description>&lt;p&gt;Everything starts for good reasons. When you start a new project, getting a cadence, a sense of progress, a way to see the journey done so far and what lies ahead provide benefits. But has you progress, it is time to revisit this cadence.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Most Valuable and Underrated Books for Software Engineers</title>
+      <link>https://laurentparenteau.com/post/the-most-valuable-and-underrated-books-for-software-engineers/</link>
+      <pubDate>Wed, 27 Mar 2019 19:06:29 -0500</pubDate>
+      
+      <guid>https://laurentparenteau.com/post/the-most-valuable-and-underrated-books-for-software-engineers/</guid>
+      <description>&lt;p&gt;You want to become a better software engineer. You learn new tech stack, you do hackathon, you’ve read &lt;a href=&#34;https://en.wikipedia.org/wiki/Code_Complete&#34;&gt;Code Complete&lt;/a&gt; twice and follow &lt;a href=&#34;https://twitter.com/kentbeck&#34;&gt;Kent Beck on Twitter&lt;/a&gt;. That’s all good. But focusing only on the technical side is a mistake.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

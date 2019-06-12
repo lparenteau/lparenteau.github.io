@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://laurentparenteau.com/post/leadership-lessons-from-parenting/</loc>
+    <lastmod>2019-05-10T19:06:29-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/post/beyond-fixed-sprints-duration/</loc>
+    <lastmod>2019-04-13T19:06:29-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/post/the-most-valuable-and-underrated-books-for-software-engineers/</loc>
+    <lastmod>2019-03-27T19:06:29-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/</loc>
+    <lastmod>2019-05-10T19:06:29-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/post/</loc>
+    <lastmod>2019-05-10T19:06:29-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
