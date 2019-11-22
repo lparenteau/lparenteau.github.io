@@ -7,10 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Laurent Parenteau</copyright>
-    <lastBuildDate>Fri, 05 Jul 2019 19:06:29 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2019 19:06:29 -0400</lastBuildDate>
     
 	<atom:link href="https://laurentparenteau.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tips for Remote Workers in Remote-Unfriendly Environments</title>
+      <link>https://laurentparenteau.com/post/tips-for-remote-workers-in-remote-unfriendly-environments/</link>
+      <pubDate>Fri, 15 Nov 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/post/tips-for-remote-workers-in-remote-unfriendly-environments/</guid>
+      <description>&lt;p&gt;There’s a world of difference between a 100% remote business and a business where remote work is the exception. If you work remotely and are in that 2nd group, here are 7 tips to help you succeed in that situation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Minimal Tool Box for Remote Startups</title>
+      <link>https://laurentparenteau.com/post/minimal-tool-box-for-remote-startups/</link>
+      <pubDate>Mon, 23 Sep 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/post/minimal-tool-box-for-remote-startups/</guid>
+      <description>&lt;p&gt;For most things, whether a startup is remote or not doesn’t make much difference in what you need. The tools you need depends on what you are actually building, not how your business is organized. But there are 3 needs that are crucial for remote startups. They all revolve around communication.&lt;/p&gt;
+
+&lt;p&gt;As the business and the team grows and mature, like all things the tools you used will evolve. Some will be added, some will be abandoned, that’s expected. As such, it is better to start with a minimal setup and adjust as needed. No two teams are the same, so blindly copying the 42 tools setup of some other startup is a bad idea.&lt;/p&gt;
+
+&lt;p&gt;What you need initially is simply to fulfill those 3 needs :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Text communication&lt;/li&gt;
+&lt;li&gt;Video communication&lt;/li&gt;
+&lt;li&gt;Collaborative documents&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Remote Work Problems Aren’t Related to Remote at All</title>
+      <link>https://laurentparenteau.com/post/remote-work-problems-arent-related-to-remote-at-all/</link>
+      <pubDate>Fri, 30 Aug 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/post/remote-work-problems-arent-related-to-remote-at-all/</guid>
+      <description>&lt;p&gt;No problems are specific to remote work. Every time someone claims “this is a problem with remote work”, it is wrong. All the problems you have in a remote work environment, you actually have them in an office environment too. ALL of them!&lt;/p&gt;
+
+&lt;p&gt;There are two main reasons why people think some problems are specific to remote work environment :&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;They confuse symptoms for problems;&lt;/li&gt;
+&lt;li&gt;They are blind to the fact that the problem is present in the office environment too.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
     
     <item>
       <title>Intel gathering from the interview process</title>
