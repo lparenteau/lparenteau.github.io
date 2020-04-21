@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Startup on Laurent Parenteau</title>
+    <link>https://laurentparenteau.com/tags/startup/</link>
+    <description>Recent content in Startup on Laurent Parenteau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Sep 2019 19:06:29 -0400</lastBuildDate>
+    
+	<atom:link href="https://laurentparenteau.com/tags/startup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Minimal Tool Box for Remote Startups</title>
+      <link>https://laurentparenteau.com/posts/minimal-tool-box-for-remote-startups/</link>
+      <pubDate>Mon, 23 Sep 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/posts/minimal-tool-box-for-remote-startups/</guid>
+      <description>For most things, whether a startup is remote or not doesn’t make much difference in what you need. The tools you need depends on what you are actually building, not how your business is organized. But there are 3 needs that are crucial for remote startups. They all revolve around communication.
+As the business and the team grows and mature, like all things the tools you used will evolve. Some will be added, some will be abandoned, that’s expected.</description>
+    </item>
+    
+    <item>
+      <title>Building Your Initial Engineering Team</title>
+      <link>https://laurentparenteau.com/posts/building-your-initial-engineering-team/</link>
+      <pubDate>Fri, 02 Aug 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/posts/building-your-initial-engineering-team/</guid>
+      <description>The Problem
+When I joined an early stage startup as the first engineer, one of my goals was to build out the initial engineering team we needed. Building that initial engineering team is really critical and it must be done right. Having an initial team that is great (or bad) will have a huge impact on the startup as a whole. So I had to be sure I was building the right team.</description>
+    </item>
+    
+  </channel>
+</rss>

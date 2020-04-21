@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Laurent Parenteau</title>
-    <link>https://laurentparenteau.com/</link>
-    <description>Recent content in Home on Laurent Parenteau</description>
+    <title>Medium on Laurent Parenteau</title>
+    <link>https://laurentparenteau.com/tags/medium/</link>
+    <description>Recent content in Medium on Laurent Parenteau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Jan 2020 16:15:46 -0400</lastBuildDate>
     
-	<atom:link href="https://laurentparenteau.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://laurentparenteau.com/tags/medium/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -54,16 +54,6 @@ There are two main reasons why people think some problems are specific to remote
     </item>
     
     <item>
-      <title>Building Your Initial Engineering Team</title>
-      <link>https://laurentparenteau.com/posts/building-your-initial-engineering-team/</link>
-      <pubDate>Fri, 02 Aug 2019 19:06:29 -0400</pubDate>
-      
-      <guid>https://laurentparenteau.com/posts/building-your-initial-engineering-team/</guid>
-      <description>The Problem
-When I joined an early stage startup as the first engineer, one of my goals was to build out the initial engineering team we needed. Building that initial engineering team is really critical and it must be done right. Having an initial team that is great (or bad) will have a huge impact on the startup as a whole. So I had to be sure I was building the right team.</description>
-    </item>
-    
-    <item>
       <title>Intel gathering from the interview process</title>
       <link>https://laurentparenteau.com/posts/intel-gathering-from-the-interview-process/</link>
       <pubDate>Fri, 05 Jul 2019 19:06:29 -0400</pubDate>
@@ -82,16 +72,6 @@ When I joined an early stage startup as the first engineer, one of my goals was 
       <description>Learning comes from all activities, and interacting with children actually teach you many great lessons applicable to leadership. Or is it the other way around? That’s a debate for another day. Whether you have kids or not, those lessons are relevant for anyone in a leadership position or looking for it.
 When you say you’ll do something, do it.
 Best way to gain trust, respect and credibility is to do what you’ve told you’ll do.</description>
-    </item>
-    
-    <item>
-      <title>Finding the Best Standup Setup for Your Team</title>
-      <link>https://laurentparenteau.com/posts/finding-the-best-standup-setup-for-your-team/</link>
-      <pubDate>Wed, 17 Apr 2019 19:06:29 -0400</pubDate>
-      
-      <guid>https://laurentparenteau.com/posts/finding-the-best-standup-setup-for-your-team/</guid>
-      <description>The Problem
-We were working on a critical project, with a huge emphasis put on delivering on time. I realized that the critical nature combined with the time bound constraint was causing some stress for the team. The team needed to be focus on the goals we had instead of worried about possible outcomes and other conjectures. I knew that if the stress wasn’t relieved, we wouldn’t be able to succeed.</description>
     </item>
     
     <item>

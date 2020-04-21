@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Laurent Parenteau</title>
-    <link>https://laurentparenteau.com/</link>
-    <description>Recent content in Home on Laurent Parenteau</description>
+    <title>Blog on Laurent Parenteau</title>
+    <link>https://laurentparenteau.com/posts/</link>
+    <description>Recent content in Blog on Laurent Parenteau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Jan 2020 16:15:46 -0400</lastBuildDate>
     
-	<atom:link href="https://laurentparenteau.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://laurentparenteau.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

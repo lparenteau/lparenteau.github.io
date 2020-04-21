@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Management on Laurent Parenteau</title>
+    <link>https://laurentparenteau.com/tags/management/</link>
+    <description>Recent content in Management on Laurent Parenteau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Aug 2019 19:06:29 -0400</lastBuildDate>
+    
+	<atom:link href="https://laurentparenteau.com/tags/management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Remote Work Problems Aren’t Related to Remote at All</title>
+      <link>https://laurentparenteau.com/posts/remote-work-problems-arent-related-to-remote-at-all/</link>
+      <pubDate>Fri, 30 Aug 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/posts/remote-work-problems-arent-related-to-remote-at-all/</guid>
+      <description>No problems are specific to remote work. Every time someone claims “this is a problem with remote work”, it is wrong. All the problems you have in a remote work environment, you actually have them in an office environment too. ALL of them!
+There are two main reasons why people think some problems are specific to remote work environment :
+ They confuse symptoms for problems; They are blind to the fact that the problem is present in the office environment too.</description>
+    </item>
+    
+    <item>
+      <title>Finding the Best Standup Setup for Your Team</title>
+      <link>https://laurentparenteau.com/posts/finding-the-best-standup-setup-for-your-team/</link>
+      <pubDate>Wed, 17 Apr 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/posts/finding-the-best-standup-setup-for-your-team/</guid>
+      <description>The Problem
+We were working on a critical project, with a huge emphasis put on delivering on time. I realized that the critical nature combined with the time bound constraint was causing some stress for the team. The team needed to be focus on the goals we had instead of worried about possible outcomes and other conjectures. I knew that if the stress wasn’t relieved, we wouldn’t be able to succeed.</description>
+    </item>
+    
+    <item>
+      <title>Beyond Fixed Sprint Duration</title>
+      <link>https://laurentparenteau.com/posts/beyond-fixed-sprints-duration/</link>
+      <pubDate>Sat, 13 Apr 2019 19:06:29 -0500</pubDate>
+      
+      <guid>https://laurentparenteau.com/posts/beyond-fixed-sprints-duration/</guid>
+      <description>Everything starts for good reasons. When you start a new project, getting a cadence, a sense of progress, a way to see the journey done so far and what lies ahead provide benefits. But has you progress, it is time to revisit this cadence.
+ Choosing a sprint length at the start of each sprint is a waste of energy. Experiment with a couple of lengths, make a decision, and stick with it until there is a significant reason to change.</description>
+    </item>
+    
+  </channel>
+</rss>

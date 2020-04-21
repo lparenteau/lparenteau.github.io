@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Laurent Parenteau</title>
+    <link>https://laurentparenteau.com/tags/tools/</link>
+    <description>Recent content in Tools on Laurent Parenteau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Sep 2019 19:06:29 -0400</lastBuildDate>
+    
+	<atom:link href="https://laurentparenteau.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Minimal Tool Box for Remote Startups</title>
+      <link>https://laurentparenteau.com/posts/minimal-tool-box-for-remote-startups/</link>
+      <pubDate>Mon, 23 Sep 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/posts/minimal-tool-box-for-remote-startups/</guid>
+      <description>For most things, whether a startup is remote or not doesn’t make much difference in what you need. The tools you need depends on what you are actually building, not how your business is organized. But there are 3 needs that are crucial for remote startups. They all revolve around communication.
+As the business and the team grows and mature, like all things the tools you used will evolve. Some will be added, some will be abandoned, that’s expected.</description>
+    </item>
+    
+  </channel>
+</rss>

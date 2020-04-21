@@ -3,91 +3,151 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://laurentparenteau.com/post/tips-for-remote-workers-in-remote-unfriendly-environments/</loc>
+    <loc>https://laurentparenteau.com/posts/building-a-cohesive-distributed-team/</loc>
+    <lastmod>2020-01-16T16:15:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/posts/tips-for-remote-workers-in-remote-unfriendly-environments/</loc>
     <lastmod>2019-11-15T19:06:29-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://laurentparenteau.com/post/minimal-tool-box-for-remote-startups/</loc>
+    <loc>https://laurentparenteau.com/posts/minimal-tool-box-for-remote-startups/</loc>
     <lastmod>2019-09-23T19:06:29-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://laurentparenteau.com/post/remote-work-problems-arent-related-to-remote-at-all/</loc>
+    <loc>https://laurentparenteau.com/posts/remote-work-problems-arent-related-to-remote-at-all/</loc>
     <lastmod>2019-08-30T19:06:29-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://laurentparenteau.com/post/building-your-initial-engineering-team/</loc>
+    <loc>https://laurentparenteau.com/posts/building-your-initial-engineering-team/</loc>
     <lastmod>2019-08-02T19:06:29-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://laurentparenteau.com/post/intel-gathering-from-the-interview-process/</loc>
+    <loc>https://laurentparenteau.com/posts/intel-gathering-from-the-interview-process/</loc>
     <lastmod>2019-07-05T19:06:29-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://laurentparenteau.com/post/leadership-lessons-from-parenting/</loc>
+    <loc>https://laurentparenteau.com/posts/leadership-lessons-from-parenting/</loc>
     <lastmod>2019-05-10T19:06:29-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://laurentparenteau.com/post/finding-the-best-standup-setup-for-your-team/</loc>
+    <loc>https://laurentparenteau.com/posts/finding-the-best-standup-setup-for-your-team/</loc>
     <lastmod>2019-04-17T19:06:29-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://laurentparenteau.com/post/beyond-fixed-sprints-duration/</loc>
+    <loc>https://laurentparenteau.com/posts/beyond-fixed-sprints-duration/</loc>
     <lastmod>2019-04-13T19:06:29-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://laurentparenteau.com/post/the-most-valuable-and-underrated-books-for-software-engineers/</loc>
+    <loc>https://laurentparenteau.com/posts/the-most-valuable-and-underrated-books-for-software-engineers/</loc>
     <lastmod>2019-03-27T19:06:29-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/tags/agile/</loc>
+    <lastmod>2019-04-17T19:06:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/posts/</loc>
+    <lastmod>2020-01-16T16:15:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/tags/books/</loc>
+    <lastmod>2019-03-27T19:06:29-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://laurentparenteau.com/categories/</loc>
-    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/tags/communication/</loc>
+    <lastmod>2020-01-16T16:15:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/tags/culture/</loc>
+    <lastmod>2020-01-16T16:15:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://laurentparenteau.com/</loc>
-    <lastmod>2019-11-15T19:06:29-04:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2020-01-16T16:15:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/tags/interview/</loc>
+    <lastmod>2019-07-05T19:06:29-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurentparenteau.com/post/</loc>
-    <lastmod>2019-11-15T19:06:29-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://laurentparenteau.com/tags/leadership/</loc>
+    <lastmod>2019-05-10T19:06:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/tags/management/</loc>
+    <lastmod>2019-08-30T19:06:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/tags/medium/</loc>
+    <lastmod>2020-01-16T16:15:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/tags/plato/</loc>
+    <lastmod>2019-08-02T19:06:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/tags/remote/</loc>
+    <lastmod>2020-01-16T16:15:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/tags/startup/</loc>
+    <lastmod>2019-09-23T19:06:29-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://laurentparenteau.com/tags/</loc>
-    <changefreq>monthly</changefreq>
+    <lastmod>2019-04-17T19:06:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/tags/team/</loc>
+    <lastmod>2019-08-02T19:06:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentparenteau.com/tags/tools/</loc>
+    <lastmod>2019-09-23T19:06:29-04:00</lastmod>
     <priority>0</priority>
   </url>
   
