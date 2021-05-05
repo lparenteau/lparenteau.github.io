@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Laurent Parenteau</title>
@@ -6,31 +6,9 @@
     <description>Recent content in Tags on Laurent Parenteau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2019 19:06:29 -0400</lastBuildDate>
-    
-	<atom:link href="https://laurentparenteau.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 16 Jan 2020 16:15:46 -0400</lastBuildDate><atom:link href="https://laurentparenteau.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Agile</title>
-      <link>https://laurentparenteau.com/tags/agile/</link>
-      <pubDate>Wed, 17 Apr 2019 19:06:29 -0400</pubDate>
-      
-      <guid>https://laurentparenteau.com/tags/agile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Books</title>
-      <link>https://laurentparenteau.com/tags/books/</link>
-      <pubDate>Wed, 27 Mar 2019 19:06:29 -0500</pubDate>
-      
-      <guid>https://laurentparenteau.com/tags/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Communication</title>
+      <title>communication</title>
       <link>https://laurentparenteau.com/tags/communication/</link>
       <pubDate>Thu, 16 Jan 2020 16:15:46 -0400</pubDate>
       
@@ -39,7 +17,7 @@
     </item>
     
     <item>
-      <title>Culture</title>
+      <title>culture</title>
       <link>https://laurentparenteau.com/tags/culture/</link>
       <pubDate>Thu, 16 Jan 2020 16:15:46 -0400</pubDate>
       
@@ -48,34 +26,7 @@
     </item>
     
     <item>
-      <title>Interview</title>
-      <link>https://laurentparenteau.com/tags/interview/</link>
-      <pubDate>Fri, 05 Jul 2019 19:06:29 -0400</pubDate>
-      
-      <guid>https://laurentparenteau.com/tags/interview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leadership</title>
-      <link>https://laurentparenteau.com/tags/leadership/</link>
-      <pubDate>Fri, 10 May 2019 19:06:29 -0400</pubDate>
-      
-      <guid>https://laurentparenteau.com/tags/leadership/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Management</title>
-      <link>https://laurentparenteau.com/tags/management/</link>
-      <pubDate>Fri, 30 Aug 2019 19:06:29 -0400</pubDate>
-      
-      <guid>https://laurentparenteau.com/tags/management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Medium</title>
+      <title>medium</title>
       <link>https://laurentparenteau.com/tags/medium/</link>
       <pubDate>Thu, 16 Jan 2020 16:15:46 -0400</pubDate>
       
@@ -84,16 +35,7 @@
     </item>
     
     <item>
-      <title>Plato</title>
-      <link>https://laurentparenteau.com/tags/plato/</link>
-      <pubDate>Fri, 02 Aug 2019 19:06:29 -0400</pubDate>
-      
-      <guid>https://laurentparenteau.com/tags/plato/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Remote</title>
+      <title>remote</title>
       <link>https://laurentparenteau.com/tags/remote/</link>
       <pubDate>Thu, 16 Jan 2020 16:15:46 -0400</pubDate>
       
@@ -102,7 +44,7 @@
     </item>
     
     <item>
-      <title>Startup</title>
+      <title>startup</title>
       <link>https://laurentparenteau.com/tags/startup/</link>
       <pubDate>Mon, 23 Sep 2019 19:06:29 -0400</pubDate>
       
@@ -111,7 +53,34 @@
     </item>
     
     <item>
-      <title>Team</title>
+      <title>tools</title>
+      <link>https://laurentparenteau.com/tags/tools/</link>
+      <pubDate>Mon, 23 Sep 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>management</title>
+      <link>https://laurentparenteau.com/tags/management/</link>
+      <pubDate>Fri, 30 Aug 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/tags/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plato</title>
+      <link>https://laurentparenteau.com/tags/plato/</link>
+      <pubDate>Fri, 02 Aug 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/tags/plato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>team</title>
       <link>https://laurentparenteau.com/tags/team/</link>
       <pubDate>Fri, 02 Aug 2019 19:06:29 -0400</pubDate>
       
@@ -120,11 +89,38 @@
     </item>
     
     <item>
-      <title>Tools</title>
-      <link>https://laurentparenteau.com/tags/tools/</link>
-      <pubDate>Mon, 23 Sep 2019 19:06:29 -0400</pubDate>
+      <title>interview</title>
+      <link>https://laurentparenteau.com/tags/interview/</link>
+      <pubDate>Fri, 05 Jul 2019 19:06:29 -0400</pubDate>
       
-      <guid>https://laurentparenteau.com/tags/tools/</guid>
+      <guid>https://laurentparenteau.com/tags/interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leadership</title>
+      <link>https://laurentparenteau.com/tags/leadership/</link>
+      <pubDate>Fri, 10 May 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agile</title>
+      <link>https://laurentparenteau.com/tags/agile/</link>
+      <pubDate>Wed, 17 Apr 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>books</title>
+      <link>https://laurentparenteau.com/tags/books/</link>
+      <pubDate>Wed, 27 Mar 2019 19:06:29 -0500</pubDate>
+      
+      <guid>https://laurentparenteau.com/tags/books/</guid>
       <description></description>
     </item>
     

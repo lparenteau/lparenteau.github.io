@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Management on Laurent Parenteau</title>
+    <title>management on Laurent Parenteau</title>
     <link>https://laurentparenteau.com/tags/management/</link>
-    <description>Recent content in Management on Laurent Parenteau</description>
+    <description>Recent content in management on Laurent Parenteau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Aug 2019 19:06:29 -0400</lastBuildDate>
-    
-	<atom:link href="https://laurentparenteau.com/tags/management/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 30 Aug 2019 19:06:29 -0400</lastBuildDate><atom:link href="https://laurentparenteau.com/tags/management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Remote Work Problems Aren’t Related to Remote at All</title>
       <link>https://laurentparenteau.com/posts/remote-work-problems-arent-related-to-remote-at-all/</link>
