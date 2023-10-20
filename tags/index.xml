@@ -6,13 +6,40 @@
     <description>Recent content in Tags on Laurent Parenteau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Oct 2023 06:17:33 -0400</lastBuildDate><atom:link href="https://laurentparenteau.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Oct 2023 07:10:12 -0400</lastBuildDate><atom:link href="https://laurentparenteau.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>books</title>
+      <link>https://laurentparenteau.com/tags/books/</link>
+      <pubDate>Fri, 20 Oct 2023 07:10:12 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/tags/books/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>complexity</title>
       <link>https://laurentparenteau.com/tags/complexity/</link>
-      <pubDate>Wed, 11 Oct 2023 06:17:33 -0400</pubDate>
+      <pubDate>Fri, 20 Oct 2023 07:10:12 -0400</pubDate>
       
       <guid>https://laurentparenteau.com/tags/complexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leadership</title>
+      <link>https://laurentparenteau.com/tags/leadership/</link>
+      <pubDate>Fri, 20 Oct 2023 07:10:12 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>management</title>
+      <link>https://laurentparenteau.com/tags/management/</link>
+      <pubDate>Fri, 20 Oct 2023 07:10:12 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/tags/management/</guid>
       <description></description>
     </item>
     
@@ -89,15 +116,6 @@
     </item>
     
     <item>
-      <title>management</title>
-      <link>https://laurentparenteau.com/tags/management/</link>
-      <pubDate>Fri, 30 Aug 2019 19:06:29 -0400</pubDate>
-      
-      <guid>https://laurentparenteau.com/tags/management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>interview</title>
       <link>https://laurentparenteau.com/tags/interview/</link>
       <pubDate>Fri, 05 Jul 2019 19:06:29 -0400</pubDate>
@@ -107,29 +125,11 @@
     </item>
     
     <item>
-      <title>leadership</title>
-      <link>https://laurentparenteau.com/tags/leadership/</link>
-      <pubDate>Fri, 10 May 2019 19:06:29 -0400</pubDate>
-      
-      <guid>https://laurentparenteau.com/tags/leadership/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>agile</title>
       <link>https://laurentparenteau.com/tags/agile/</link>
       <pubDate>Wed, 17 Apr 2019 19:06:29 -0400</pubDate>
       
       <guid>https://laurentparenteau.com/tags/agile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>books</title>
-      <link>https://laurentparenteau.com/tags/books/</link>
-      <pubDate>Wed, 27 Mar 2019 19:06:29 -0500</pubDate>
-      
-      <guid>https://laurentparenteau.com/tags/books/</guid>
       <description></description>
     </item>
     

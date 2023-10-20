@@ -3,18 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://laurentparenteau.com/posts/</loc>
-    <lastmod>2023-10-11T06:17:33-04:00</lastmod>
+    <lastmod>2023-10-20T07:10:12-04:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/tags/books/</loc>
+    <lastmod>2023-10-20T07:10:12-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/tags/complexity/</loc>
-    <lastmod>2023-10-11T06:17:33-04:00</lastmod>
+    <lastmod>2023-10-20T07:10:12-04:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/posts/embracing-the-grey-a-probabilistic-approach-to-engineering-decision-making/</loc>
+    <lastmod>2023-10-20T07:10:12-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/</loc>
-    <lastmod>2023-10-11T06:17:33-04:00</lastmod>
+    <lastmod>2023-10-20T07:10:12-04:00</lastmod>
   </url><url>
-    <loc>https://laurentparenteau.com/tags/plato/</loc>
-    <lastmod>2023-10-11T06:17:33-04:00</lastmod>
+    <loc>https://laurentparenteau.com/tags/leadership/</loc>
+    <lastmod>2023-10-20T07:10:12-04:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/tags/management/</loc>
+    <lastmod>2023-10-20T07:10:12-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/tags/</loc>
+    <lastmod>2023-10-20T07:10:12-04:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/tags/plato/</loc>
     <lastmod>2023-10-11T06:17:33-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/posts/the-power-of-simplicity-why-complex-solutions-aren-t-always-better/</loc>
@@ -53,9 +65,6 @@
     <loc>https://laurentparenteau.com/posts/minimal-tool-box-for-remote-startups/</loc>
     <lastmod>2019-09-23T19:06:29-04:00</lastmod>
   </url><url>
-    <loc>https://laurentparenteau.com/tags/management/</loc>
-    <lastmod>2019-08-30T19:06:29-04:00</lastmod>
-  </url><url>
     <loc>https://laurentparenteau.com/posts/remote-work-problems-arent-related-to-remote-at-all/</loc>
     <lastmod>2019-08-30T19:06:29-04:00</lastmod>
   </url><url>
@@ -68,9 +77,6 @@
     <loc>https://laurentparenteau.com/tags/interview/</loc>
     <lastmod>2019-07-05T19:06:29-04:00</lastmod>
   </url><url>
-    <loc>https://laurentparenteau.com/tags/leadership/</loc>
-    <lastmod>2019-05-10T19:06:29-04:00</lastmod>
-  </url><url>
     <loc>https://laurentparenteau.com/posts/leadership-lessons-from-parenting/</loc>
     <lastmod>2019-05-10T19:06:29-04:00</lastmod>
   </url><url>
@@ -82,9 +88,6 @@
   </url><url>
     <loc>https://laurentparenteau.com/posts/beyond-fixed-sprints-duration/</loc>
     <lastmod>2019-04-13T19:06:29-05:00</lastmod>
-  </url><url>
-    <loc>https://laurentparenteau.com/tags/books/</loc>
-    <lastmod>2019-03-27T19:06:29-05:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/posts/the-most-valuable-and-underrated-books-for-software-engineers/</loc>
     <lastmod>2019-03-27T19:06:29-05:00</lastmod>
