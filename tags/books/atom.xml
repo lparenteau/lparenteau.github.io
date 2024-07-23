@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>books on Laurent Parenteau</title>
+    <link>https://laurentparenteau.com/tags/books/</link>
+    <description>Recent content in books on Laurent Parenteau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2023 07:08:39 -0400</lastBuildDate><atom:link href="https://laurentparenteau.com/tags/books/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decoding Success and Failure: A Rational Approach</title>
+      <link>https://laurentparenteau.com/posts/decoding-success-and-failure-a-rational-approach/</link>
+      <pubDate>Wed, 01 Nov 2023 07:08:39 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/posts/decoding-success-and-failure-a-rational-approach/</guid>
+      <description>In the ever-evolving world of software engineering, we are often presented with the challenge of assessing successes and failures. When evaluating our own performance, we frequently attribute our successes to our skills and our failures to bad luck. However, when it comes to evaluating the results of our competitors, the tendency is quite the opposite: we tend to ascribe their failures to a lack of skill and their successes to sheer luck.</description>
+    </item>
+    
+    <item>
+      <title>Embracing the Grey: A Probabilistic Approach to Engineering Decision-Making</title>
+      <link>https://laurentparenteau.com/posts/embracing-the-grey-a-probabilistic-approach-to-engineering-decision-making/</link>
+      <pubDate>Fri, 20 Oct 2023 07:10:12 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/posts/embracing-the-grey-a-probabilistic-approach-to-engineering-decision-making/</guid>
+      <description>I&amp;rsquo;ve seen my fair share of successes and failures in the world of technology. Throughout the years, I&amp;rsquo;ve come across various approaches to decision-making and problem-solving, each with its own set of principles and methodologies. However, one idea that recently struck a chord with me is the concept of &amp;ldquo;thinking in bets&amp;rdquo; as outlined by Annie Duke in her book of the same name.
+I&amp;rsquo;d like to explore how this concept can revolutionize the way we make decisions in the field of software engineering and challenge the conventional wisdom that often prevails.</description>
+    </item>
+    
+    <item>
+      <title>The Most Valuable and Underrated Books for Software Engineers</title>
+      <link>https://laurentparenteau.com/posts/the-most-valuable-and-underrated-books-for-software-engineers/</link>
+      <pubDate>Wed, 27 Mar 2019 19:06:29 -0500</pubDate>
+      
+      <guid>https://laurentparenteau.com/posts/the-most-valuable-and-underrated-books-for-software-engineers/</guid>
+      <description>You want to become a better software engineer. You learn new tech stack, you do hackathon, you’ve read Code Complete twice and follow Kent Beck on Twitter. That’s all good. But focusing only on the technical side is a mistake.
+It is important to do cross-domain learning as well. Arts, fiction, biology, physics, woodworking, etc. By learning from other domains, you look at similar problems or concepts from a different point of view.</description>
+    </item>
+    
+  </channel>
+</rss>

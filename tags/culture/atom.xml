@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>culture on Laurent Parenteau</title>
+    <link>https://laurentparenteau.com/tags/culture/</link>
+    <description>Recent content in culture on Laurent Parenteau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jan 2020 16:15:46 -0400</lastBuildDate><atom:link href="https://laurentparenteau.com/tags/culture/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Cohesive Distributed Team</title>
+      <link>https://laurentparenteau.com/posts/building-a-cohesive-distributed-team/</link>
+      <pubDate>Thu, 16 Jan 2020 16:15:46 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/posts/building-a-cohesive-distributed-team/</guid>
+      <description>You’ve hired seven people, spread across 5 different time zones. You’re optimistic about your team; you’ve chosen them well and are looking forward to what you’ll build together. But now the easy part is done (hiring), you have to build that distributed team as a cohesive unit.
+This is a challenge that all teams have, it isn’t specific to distributed team. But it is a challenge that all distributed team knows they need to tackle.</description>
+    </item>
+    
+    <item>
+      <title>Minimal Tool Box for Remote Startups</title>
+      <link>https://laurentparenteau.com/posts/minimal-tool-box-for-remote-startups/</link>
+      <pubDate>Mon, 23 Sep 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/posts/minimal-tool-box-for-remote-startups/</guid>
+      <description>For most things, whether a startup is remote or not doesn’t make much difference in what you need. The tools you need depends on what you are actually building, not how your business is organized. But there are 3 needs that are crucial for remote startups. They all revolve around communication.
+As the business and the team grows and mature, like all things the tools you used will evolve. Some will be added, some will be abandoned, that’s expected.</description>
+    </item>
+    
+    <item>
+      <title>Remote Work Problems Aren’t Related to Remote at All</title>
+      <link>https://laurentparenteau.com/posts/remote-work-problems-arent-related-to-remote-at-all/</link>
+      <pubDate>Fri, 30 Aug 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/posts/remote-work-problems-arent-related-to-remote-at-all/</guid>
+      <description>No problems are specific to remote work. Every time someone claims “this is a problem with remote work”, it is wrong. All the problems you have in a remote work environment, you actually have them in an office environment too. ALL of them!
+There are two main reasons why people think some problems are specific to remote work environment :
+ They confuse symptoms for problems; They are blind to the fact that the problem is present in the office environment too.</description>
+    </item>
+    
+    <item>
+      <title>Building Your Initial Engineering Team</title>
+      <link>https://laurentparenteau.com/posts/building-your-initial-engineering-team/</link>
+      <pubDate>Fri, 02 Aug 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/posts/building-your-initial-engineering-team/</guid>
+      <description>The Problem
+When I joined an early stage startup as the first engineer, one of my goals was to build out the initial engineering team we needed. Building that initial engineering team is really critical and it must be done right. Having an initial team that is great (or bad) will have a huge impact on the startup as a whole. So I had to be sure I was building the right team.</description>
+    </item>
+    
+    <item>
+      <title>Intel gathering from the interview process</title>
+      <link>https://laurentparenteau.com/posts/intel-gathering-from-the-interview-process/</link>
+      <pubDate>Fri, 05 Jul 2019 19:06:29 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/posts/intel-gathering-from-the-interview-process/</guid>
+      <description>The purpose of a job interview is two fold :
+ Employer figures out if he wants you You figure out if you want to work with them  Many people forget about that 2nd point, but it is equally important. Now, to figure out if you want to work with them, you can ask questions. But you can also learn a lot from the interview process itself and how its conducted.</description>
+    </item>
+    
+  </channel>
+</rss>

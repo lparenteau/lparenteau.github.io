@@ -1,0 +1,683 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Laurent Parenteau</title>
+    <description>Laurent Parenteau, Software Engineering</description>
+    <link>https://laurentparenteau.com/</link>
+    
+    <language>en</language>
+    <copyright>Copyright 2024, Calvin Tran</copyright>
+    <lastBuildDate>Tue, 23 Jul 2024 15:38:52 -0400</lastBuildDate>
+    <generator>Hugo - gohugo.io</generator>
+    <docs>http://cyber.harvard.edu/rss/rss.html</docs>
+    <atom:link href="https://laurentparenteau.com//atom.xml" rel="self" type="application/atom+xml"/>
+    
+    
+    <item>
+      <title>The Crucial Role of Strategy for Engineering Leaders</title>
+      <link>https://laurentparenteau.com/posts/the-crucial-role-of-strategy-for-engineering-leaders/</link>
+      <description>&lt;p&gt;In the fast-paced world of technology and innovation, engineering leaders often navigate complex challenges and make critical decisions that impact their teams, projects, and organizations. While strategy is commonly associated with business executives, it&amp;rsquo;s equally crucial for engineering leaders to grasp and apply strategic thinking within their domain. Understanding strategy and its application can significantly enhance your effectiveness in navigating the complexities of your role and driving success for your organization.&lt;/p&gt;
+&lt;h2 id=&#34;understanding-strategy&#34;&gt;Understanding Strategy&lt;/h2&gt;
+&lt;p&gt;First, it&amp;rsquo;s essential to know what strategy truly is. Like many other words, people often misuse the term &amp;ldquo;strategy,&amp;rdquo; many things labeled with it are not strategies. I prefer &lt;a href=&#34;https://www.youtube.com/watch?v=iuYlGRnC7J8&#34;&gt;Roger Martin&lt;/a&gt;&amp;rsquo;s simple yet powerful definition:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;A strategy is an integrative set of choices that positions you on a playing field of your choice in a way that you win.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Let&amp;rsquo;s break this definition down and explore its components.&lt;/p&gt;
+&lt;h3 id=&#34;clear-goal-winning&#34;&gt;Clear Goal (Winning)&lt;/h3&gt;
+&lt;p&gt;When discussing winning, you need a clear goal to know what winning means. For an engineering leader, this could be various objectives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Delivering a groundbreaking product ahead of competitors&lt;/li&gt;
+&lt;li&gt;Achieving a specific level of system reliability or performance&lt;/li&gt;
+&lt;li&gt;Reducing technical debt by a certain percentage&lt;/li&gt;
+&lt;li&gt;Improving team productivity and satisfaction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; Imagine you&amp;rsquo;re the CTO of a startup aiming to disrupt the ride-sharing industry. Your &amp;ldquo;win&amp;rdquo; might be defined as launching a platform that can handle 100,000 concurrent users with 99.99% uptime within 18 months.&lt;/p&gt;
+&lt;h3 id=&#34;defined-playing-field&#34;&gt;Defined Playing Field&lt;/h3&gt;
+&lt;p&gt;The playing field is the boundaries or the context within which you want to win. Others don&amp;rsquo;t define this; you have to decide the playing field. That decision is an integral part of the strategy, and you can specify that any way you want.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; Continuing with our ride-sharing startup, you might define your playing field as &amp;ldquo;urban areas in North America with populations over 500,000.&amp;rdquo; This choice narrows your focus and impacts everything from your technology stack to your hiring decisions.&lt;/p&gt;
+&lt;h3 id=&#34;the-how-theory-of-winning&#34;&gt;The &amp;ldquo;How&amp;rdquo; (Theory of Winning)&lt;/h3&gt;
+&lt;p&gt;Finally, you need the &amp;ldquo;how&amp;rdquo; to achieve that goal on that playing field. The &amp;ldquo;how&amp;rdquo; needs to be based on a theory (or hypothesis) you have that, if correct, guarantees you to win.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; Your theory of winning might be: &amp;ldquo;By leveraging a serverless architecture and machine learning for predictive scaling, we can achieve superior performance and cost-efficiency compared to traditional server-based solutions, allowing us to undercut competitors&#39; prices while maintaining high reliability.&amp;rdquo;&lt;/p&gt;
+&lt;h3 id=&#34;the-integrative-nature-of-strategy&#34;&gt;The Integrative Nature of Strategy&lt;/h3&gt;
+&lt;p&gt;The whole thing must be cohesive; each point will influence the rest. Each point should reinforce or help each other. This integrative nature sets actual strategy apart from a mere collection of goals or tactics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; In our ride-sharing scenario, the choice of urban areas (playing field) influences the technical requirements (how), affecting your goal&amp;rsquo;s timeline and scale. If you were to change any of these elements, it would necessitate adjustments to the others to maintain a coherent strategy.&lt;/p&gt;
+&lt;h2 id=&#34;insights-from-good-strategy--bad-strategy&#34;&gt;Insights from &amp;ldquo;Good Strategy / Bad Strategy&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;Richard Rumelt, in his seminal work &lt;a href=&#34;https://www.amazon.com/Good-Strategy-Bad-difference-matters/dp/1781256179/&#34;&gt;&amp;ldquo;Good Strategy / Bad Strategy,&amp;quot;&lt;/a&gt; provides valuable insights that complement our understanding of strategy. One particularly relevant quote from the book is:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The core of strategy work is always the same: discovering the critical factors in a situation and designing a way of coordinating and focusing actions to deal with those factors.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This quote emphasizes the analytical and creative aspects of strategy formulation. For engineering leaders, this means:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Analytical Aspect: Identifying the critical factors in your technological landscape, market position, and organizational capabilities.&lt;/li&gt;
+&lt;li&gt;Creative Aspect: Designing a coordinated approach that leverages these factors to achieve your goals.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; Consider a mid-sized software company facing increasing competition from established players and innovative startups. The critical factors might include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rapid technological change in their industry&lt;/li&gt;
+&lt;li&gt;Growing customer demand for AI-powered features&lt;/li&gt;
+&lt;li&gt;A talented but overworked engineering team&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A good strategy might involve:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Focusing on a niche where the company&amp;rsquo;s expertise gives them an edge&lt;/li&gt;
+&lt;li&gt;Partnering with an AI research institution to quickly build AI capabilities&lt;/li&gt;
+&lt;li&gt;Implementing an aggressive talent development and retention program&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This approach coordinates actions across multiple fronts (market positioning, technology development, and human resources) to address the critical factors identified.&lt;/p&gt;
+&lt;p&gt;Rumelt&amp;rsquo;s insight reminds us that strategy isn&amp;rsquo;t about platitudes or vague aspirations. It&amp;rsquo;s about clear-eyed analysis followed by focused, coordinated action. For engineering leaders, this means going beyond technical considerations to understand the broader context and designing holistic solutions that address the most crucial challenges and opportunities.&lt;/p&gt;
+&lt;h2 id=&#34;characteristics-of-a-good-strategy&#34;&gt;Characteristics of a Good Strategy&lt;/h2&gt;
+&lt;p&gt;A hallmark of a good strategy is its clarity and coherence. It should be concise enough to fit on a single page and provide quick answers to questions about the best course of action. A well-crafted strategy serves as a guiding framework for decision-making, eliminating the need to decide everything and ensuring the correct path forward becomes evident upon reading the strategy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; Imagine you need to decide whether to invest in developing a new feature or optimizing existing code. A clear strategy would guide this decision by aligning it with your overarching goals and theory of winning. If your strategy emphasizes rapid scaling and performance, you might prioritize optimization. You might lean towards new feature development if it focuses on market differentiation.&lt;/p&gt;
+&lt;h2 id=&#34;applying-strategic-thinking-as-an-engineering-leader&#34;&gt;Applying Strategic Thinking as an Engineering Leader&lt;/h2&gt;
+&lt;p&gt;As an engineering leader, where does strategic thinking help? As we&amp;rsquo;ve seen, the goal, the playing field, and the actions are all intertwined and influence each other. To be an effective leader, you need to be able to think about all of them as a whole.&lt;/p&gt;
+&lt;p&gt;Keep your thinking open to what actions engineering will take. When you propose a solution or a path forward, suggest (or adjust as needed) a whole strategy. In healthy organizations, this will lead to productive discussions and allow the business to pick the best path forward, leading to success. Otherwise, you may get engineering busy, but the chances of overall success will be, at best, low and, at worst, guaranteed to fail.&lt;/p&gt;
+&lt;h3 id=&#34;examples-of-strategic-thinking-in-engineering-leadership&#34;&gt;Examples of Strategic Thinking in Engineering Leadership&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Technology Stack Selection:
+Instead of simply choosing the most popular or familiar technologies, a strategic approach would consider the following:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Long-term scalability needs&lt;/li&gt;
+&lt;li&gt;Alignment with company goals (e.g., rapid development vs. rock-solid stability)&lt;/li&gt;
+&lt;li&gt;Available talent pool for hiring&lt;/li&gt;
+&lt;li&gt;Total cost of ownership&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; A fintech startup might choose a less common but highly secure and auditable technology stack to align with its goal of becoming the most trusted platform in its niche.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Team Structure and Hiring:
+Strategic thinking in team building goes beyond just filling open positions:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Aligning team structure with product architecture&lt;/li&gt;
+&lt;li&gt;Balancing specialization vs. versatility&lt;/li&gt;
+&lt;li&gt;Planning for future skill needs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; An AI-focused company might structure its teams around specific AI domains (NLP, computer vision, etc.) rather than traditional software engineering roles to foster deep expertise in its core competencies.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Technical Debt Management:
+A strategic approach to technical debt considers the following:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Impact on future goals and scalability&lt;/li&gt;
+&lt;li&gt;Balance between new feature development and refactoring&lt;/li&gt;
+&lt;li&gt;Alignment with business priorities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; A rapidly growing e-commerce platform might strategically decide to accumulate technical debt in non-critical areas to focus on scaling core transaction systems, with a plan to address the debt after achieving its market share goals.&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Innovation and Research:
+Strategic innovation isn&amp;rsquo;t about chasing every new technology:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Aligning research with long-term company vision&lt;/li&gt;
+&lt;li&gt;Balancing exploration of new technologies with exploitation of existing strengths&lt;/li&gt;
+&lt;li&gt;Creating a culture that supports purposeful innovation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; An enterprise software company might strategically invest in researching AI-driven user interfaces, seeing them as key to leapfrogging competitors in user experience, even if the immediate ROI isn&amp;rsquo;t clear.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;As an engineering leader, embracing strategic thinking can elevate your impact beyond day-to-day technical decisions. By understanding and applying the principles of good strategy – setting clear goals, defining your playing field, and developing a coherent theory of winning – you can guide your team and organization toward meaningful, lasting success.&lt;/p&gt;
+&lt;p&gt;Remember, strategy isn&amp;rsquo;t about predicting the future or creating rigid plans. It&amp;rsquo;s about making integrated choices that position you to win in your chosen arena. By cultivating this strategic mindset, you&amp;rsquo;ll be better equipped to navigate the complex landscape of modern technology leadership, drive innovation, and create value in ways that truly matter.&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/the-crucial-role-of-strategy-for-engineering-leaders/</guid>
+      <pubDate>Tue, 23 Jul 2024 15:38:52 -0400</pubDate>
+    </item>
+    
+    <item>
+      <title>Exponential Growth: Myth, Reality, and Strategic Considerations</title>
+      <link>https://laurentparenteau.com/posts/exponential-growth-myth-reality-and-strategic-considerations/</link>
+      <description>&lt;p&gt;We&amp;rsquo;ve all heard the Indian story of the man who asked for his reward to be 1 grain of wheat placed on the 1st square of a chessboard and doubling the number of grains on each subsequent square. While there are only 64 squares, you&amp;rsquo;d need 2,000 times the world&amp;rsquo;s wheat production to provide that reward. This &lt;a href=&#34;https://en.wikipedia.org/wiki/Wheat_and_chessboard_problem&#34;&gt;famous story&lt;/a&gt; shows our lack of intuition about exponential growth and its power.&lt;/p&gt;
+&lt;p&gt;Similarly, James Clear&amp;rsquo;s often shared &lt;a href=&#34;https://jamesclear.com/continuous-improvement&#34;&gt;picture&lt;/a&gt; shows that a daily 1% improvement will result in ~38X by year-end. This is the same as compounding interest, which shows exponential growth behavior, too.&lt;/p&gt;
+&lt;p&gt;These stories are powerful. I&amp;rsquo;m a big proponent of continuous improvement myself. At the same time, since exponential growth is hard to imagine, I often see people misuse it and reach the wrong conclusion. Exponential growth isn&amp;rsquo;t magic, and if you don&amp;rsquo;t do the math to verify it, you may find yourself in a situation where continuous improvement won&amp;rsquo;t allow you to win. But how so? Let&amp;rsquo;s dig in to see.&lt;/p&gt;
+&lt;p&gt;There are two parts here:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How significant is the growth at every step (100% in the wheat case, 1% in James Clear&amp;rsquo;s story)?&lt;/li&gt;
+&lt;li&gt;How long do you sustain that growth (64 iterations in the wheat case, 365 iterations in James Clear&amp;rsquo;s story)?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The numbers in the above stories were chosen to show the potential of exponential growth. But the results really depend on these numbers, and they may not be something you have control over in reality.&lt;/p&gt;
+&lt;p&gt;What if you improve by 1% each week instead of each day? It&amp;rsquo;s no longer the 3,778% improvement you&amp;rsquo;re looking at, but 68% instead. It&amp;rsquo;s still more significant than most would imagine, but it&amp;rsquo;s not even doubling! And that assumes the improvement you&amp;rsquo;re making compound. If you don&amp;rsquo;t have focus and improve in different areas, it will be less than that.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s try a small exercise. If a startup has to double its Annual Recurring Revenue (ARR) (from 2M to 4M) to get its next round of funding, how long does it take to get there if its new ARR doubles every quarter? Only 1 quarter? It&amp;rsquo;s a trick question since you need to know the new ARR (not the total existing ARR) to calculate. Let&amp;rsquo;s assume it was adding 50k new ARR in the first quarter; how to get to the new 2M ARR needed to double? It would take 16 months to get there. A lot longer than 3 months. And this assumes doubling is sustained. Just one quarter with a little less new ARR, and the time it takes will be much longer.&lt;/p&gt;
+&lt;p&gt;So, while exponential growth is incredible, it&amp;rsquo;s essential to put that into perspective and ask the appropriate questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Can we sustain that growth rate? What&amp;rsquo;s the data to date telling us? Is the growth rate slowing down, even just a tiny bit? What&amp;rsquo;s the &amp;ldquo;honest&amp;rdquo; growth rate we can expect to sustain?&lt;/li&gt;
+&lt;li&gt;How much time do we have to achieve our goal? Can we get there in time with that honest growth rate?
+If the answer is no, then continuous improvement won&amp;rsquo;t help you.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Again, this isn&amp;rsquo;t magic. Instead, it would be best to look at high-risk / high-reward tactics. They aren&amp;rsquo;t the first choice. Since they have a high chance of failure, you&amp;rsquo;d pick a less risky alternative (like continuous improvement) if it would allow you to win. However, if the less risky approach is guaranteed insufficient, the high-risk option is the only viable one.&lt;/p&gt;
+&lt;p&gt;If you have only 10$ and need to make millions by the end of the day, buying lottery tickets (or other form of gambling) is the only way to have a chance of achieving that goal. Even if you&amp;rsquo;re almost guaranteed to lose, at least you have a chance.  If you invest it in stocks (or any other form of investment where the odds of losing all money are low), you have a good chance of ending the day with more money but 0 chances of making millions. &lt;a href=&#34;https://en.wikipedia.org/wiki/Lottery_mathematics#Choosing_6_from_49&#34;&gt;0.000000072&lt;/a&gt; is greater than 0.&lt;/p&gt;
+&lt;p&gt;So, while continuous improvement is excellent, and you should focus on it for many things, remember that it isn&amp;rsquo;t magic. Sometimes, it isn&amp;rsquo;t enough. Look at the current state, the goal, the timeframe you have, the current growth, and any deviation from the required growth. Then, don&amp;rsquo;t guess; do the actual math. We&amp;rsquo;re bad at guessing exponential growth; minor variations have significant impacts, so be careful.&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/exponential-growth-myth-reality-and-strategic-considerations/</guid>
+      <pubDate>Thu, 04 Jul 2024 11:37:11 -0400</pubDate>
+    </item>
+    
+    <item>
+      <title>The Tragic Tale of King Han: The Consequences of Ignored Counsel</title>
+      <link>https://laurentparenteau.com/posts/the-tragic-tale-of-king-han-the-consequences-of-ignored-counsel/</link>
+      <description>&lt;p&gt;Once upon a time, in the kingdom of Wisdom Peak, there reigned a king known for his wisdom and prudence. This king, by the name of Han, dwelled in a magnificent palace nestled atop the tallest mountain in the realm. To reach his palace, one had to navigate a treacherous path that wound its way up the steep slopes.&lt;/p&gt;
+&lt;p&gt;Accompanying King Han on his journey were his two trusted advisors: the elder sage, Master Li, and the younger scholar, Apprentice Zhou. As they began their ascent, Master Li, with his weathered countenance and years of experience, advised the king to take the longer but safer route, which had been traversed by countless travelers before.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Your Majesty,&amp;rdquo; Master Li cautioned, &amp;ldquo;though this path may be longer, it is tried and true. It will ensure your safe arrival at the palace, where you may revel in its splendor and luxury.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;However, Apprentice Zhou, with his youthful enthusiasm and eagerness to impress the king, had a different suggestion.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Your Majesty,&amp;rdquo; he proposed, &amp;ldquo;why waste time on the longer path when a quicker route lies before us? If we take this shortcut,&amp;rdquo; pointing towards a narrow trail that led to a massive cliff, &amp;ldquo;we can reach the palace sooner and bask in its riches without delay.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Despite Master Li&amp;rsquo;s wise counsel, King Han found himself swayed by Apprentice Zhou&amp;rsquo;s persuasive argument. Overlooking his own intuition, the king made the fateful decision to follow the younger advisor&amp;rsquo;s advice and embarked upon the shortcut towards the cliff.&lt;/p&gt;
+&lt;p&gt;As they approached the precipice, it became apparent that the gap was far wider than they had anticipated. With no bridge to cross and no alternative route available, they stood at the edge, facing a perilous leap.&lt;/p&gt;
+&lt;p&gt;Master Li, foreseeing the tragic outcome of their decision, shook his head in dismay. &amp;ldquo;Your Majesty,&amp;rdquo; he implored once more, &amp;ldquo;heed not the allure of haste. Patience and prudence are the pillars of wise governance. Let us retreat and take the path that promises safety and security.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;But the king, blinded by the promise of swift arrival, and Apprentice Zhou, driven by his desire to please, ignored Master Li&amp;rsquo;s plea. With a misguided sense of confidence, they attempted to leap across the chasm.&lt;/p&gt;
+&lt;p&gt;Alas, their folly proved fatal. None among them possessed the strength or agility to clear the gaping void, and they plummeted into the abyss below.&lt;/p&gt;
+&lt;p&gt;Master Li, witnessing the tragic demise of his king and apprentice, felt a profound sense of sorrow and regret. In the aftermath of this calamity, he resolved to depart from the kingdom of Wisdom Peak, seeking solace and a new purpose elsewhere.&lt;/p&gt;
+&lt;p&gt;Finding refuge in a distant land, Master Li offered his sage counsel to another ruler, hoping that his hard-learned lessons would guide this monarch towards a wiser and more enlightened reign. And so, amidst the echoes of past mistakes, Master Li embarked on a journey of redemption, carrying with him the memory of King Han and the solemn vow to never again witness such tragedy.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A few learnings from this tale:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;As a leader, you have to use your own judgment.&lt;/li&gt;
+&lt;li&gt;Be especially careful when you &lt;em&gt;want&lt;/em&gt; to believe the claims, since you want the associated outcomes.&lt;/li&gt;
+&lt;li&gt;You don&amp;rsquo;t have to follow others against your best judgment.  If they don&amp;rsquo;t want to listen, let them die and move on.&lt;/li&gt;
+&lt;li&gt;Something that is obviously a bad idea from your perspective may not look like that to others.&lt;/li&gt;
+&lt;li&gt;While startups are about taking risks, it doesn&amp;rsquo;t mean you have to take irrational risks when there are other options.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/the-tragic-tale-of-king-han-the-consequences-of-ignored-counsel/</guid>
+      <pubDate>Fri, 22 Mar 2024 07:06:19 -0400</pubDate>
+    </item>
+    
+    <item>
+      <title>Decoding Success and Failure: A Rational Approach</title>
+      <link>https://laurentparenteau.com/posts/decoding-success-and-failure-a-rational-approach/</link>
+      <description>&lt;p&gt;In the ever-evolving world of software engineering, we are often presented with the challenge of assessing successes and failures. When evaluating our own performance, we frequently attribute our successes to our skills and our failures to bad luck. However, when it comes to evaluating the results of our competitors, the tendency is quite the opposite: we tend to ascribe their failures to a lack of skill and their successes to sheer luck. These cognitive biases significantly impact our ability to make informed decisions and engage in meaningful self-improvement. In this article, I&amp;rsquo;d like to introduce the concept of probabilistic thinking, as highlighted in &lt;a href=&#34;https://en.wikipedia.org/wiki/Annie_Duke&#34;&gt;Annie Duke&lt;/a&gt;&amp;rsquo;s book &lt;a href=&#34;https://www.penguinrandomhouse.ca/books/552885/thinking-in-bets-by-annie-duke/9780735216372&#34;&gt;&amp;ldquo;Thinking in Bets&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Role of Luck and Skill&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Annie Duke&amp;rsquo;s central idea is that every result is influenced by a combination of skill and luck. This concept challenges the binary way we often think about success and failure. In software engineering, this perspective is particularly relevant, as our work is inherently probabilistic. It&amp;rsquo;s not always easy to distinguish whether a project&amp;rsquo;s success or failure is solely due to the skills of the team or external factors beyond our control.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Probabilistic Thinking in Software Engineering&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Self-Reflection: When evaluating our own work, it&amp;rsquo;s essential to recognize the role of luck. Sometimes, despite our best efforts, external factors can lead to failure. Embracing the idea that not every failure is a reflection of our skills allows for more constructive self-reflection. We can focus on improving our skills and strategies, even when luck doesn&amp;rsquo;t go our way.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Empathy and Collaboration: When assessing the work of our colleagues, understanding that they too face elements of luck can foster better collaboration and support. Instead of dismissing their failures as incompetence, consider the external factors that may have influenced the outcome. This shift in perspective can lead to more effective teamwork.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluating Competitors: Just as we often attribute our own failures to bad luck and our successes to skill, we tend to attribute our competitors&#39; successes to luck. By recognizing that competitors also possess skills and face their own share of challenges, we can engage in healthier competition and learn from their successes rather than dismissing them as mere luck.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Better Decision-Making: Embracing probabilistic thinking can improve our decision-making processes. In software engineering, where outcomes are often uncertain, acknowledging the role of luck allows us to make more informed choices. We can assess risks and uncertainties, plan for contingencies, and adopt a more adaptive and resilient approach to our projects.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Continuous Learning: Recognizing the interplay of skill and luck in software engineering encourages a culture of continuous learning. When successes are attributed to both skills and luck, we are more inclined to understand the areas where improvement is needed. Similarly, acknowledging the impact of luck on failures can prevent a demoralizing blame game and instead promote a focus on learning from mistakes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;Annie Duke&amp;rsquo;s concept of probabilistic thinking challenges the conventional wisdom of attributing success solely to skills and failure solely to bad luck. In the dynamic world of software engineering, where outcomes are often uncertain, this perspective is invaluable. By embracing the role of both skill and luck, we can make better decisions, engage in more constructive self-reflection, and foster collaboration and empathy among team members.&lt;/p&gt;
+&lt;p&gt;As software engineering leaders, let&amp;rsquo;s encourage our teams to adopt this probabilistic mindset. It can help us navigate the complexities of our field with a more open and rational perspective, leading to better results, improved teamwork, and a culture of continuous improvement. Ultimately, acknowledging the role of luck doesn&amp;rsquo;t undermine our skills; it simply helps us approach our work with a more nuanced understanding of the factors at play.&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/decoding-success-and-failure-a-rational-approach/</guid>
+      <pubDate>Wed, 01 Nov 2023 07:08:39 -0400</pubDate>
+    </item>
+    
+    <item>
+      <title>Embracing the Grey: A Probabilistic Approach to Engineering Decision-Making</title>
+      <link>https://laurentparenteau.com/posts/embracing-the-grey-a-probabilistic-approach-to-engineering-decision-making/</link>
+      <description>&lt;p&gt;I&amp;rsquo;ve seen my fair share of successes and failures in the world of technology. Throughout the years, I&amp;rsquo;ve come across various approaches to decision-making and problem-solving, each with its own set of principles and methodologies. However, one idea that recently struck a chord with me is the concept of &amp;ldquo;thinking in bets&amp;rdquo; as outlined by &lt;a href=&#34;https://en.wikipedia.org/wiki/Annie_Duke&#34;&gt;Annie Duke&lt;/a&gt; in her &lt;a href=&#34;https://www.penguinrandomhouse.ca/books/552885/thinking-in-bets-by-annie-duke/9780735216372&#34;&gt;book&lt;/a&gt; of the same name.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d like to explore how this concept can revolutionize the way we make decisions in the field of software engineering and challenge the conventional wisdom that often prevails.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Probabilistic Perspective&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Annie Duke&amp;rsquo;s core idea is simple yet profound: in life, as in engineering, every result is a combination of skill and luck. This perspective forces us to consider that there are elements of our decisions that we can control and elements that we cannot. This realization fundamentally shifts our approach to decision-making by introducing a probabilistic lens through which we view our choices.&lt;/p&gt;
+&lt;p&gt;In traditional thinking, we often judge decisions based solely on their outcomes. If a project succeeds, the decision to undertake it is perceived as sound, and if it fails, the decision is deemed poor. This binary approach, however, fails to consider the inherent uncertainties and complexities that surround software development.&lt;/p&gt;
+&lt;p&gt;The &amp;ldquo;thinking in bets&amp;rdquo; framework encourages us to evaluate decisions independently from their results. It&amp;rsquo;s not about whether a decision was right or wrong but rather about the process and rationale that led to it. By recognizing that there is no such thing as a guaranteed outcome, we become more open to analyzing decisions probabilistically.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Embracing Uncertainty&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Software engineering is an arena where uncertainty is the norm rather than the exception. The industry is constantly evolving, and projects involve intricate variables and dependencies. Recognizing this, we should approach decision-making with humility and acknowledge the role that luck plays in our outcomes.&lt;/p&gt;
+&lt;p&gt;By accepting the existence of uncertainty and chance, we can better prepare for it. In essence, we shift our mindset from expecting perfection to embracing imperfection.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Role of Skill&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While luck is a significant factor in outcomes, it&amp;rsquo;s essential to acknowledge that skill and expertise still play a vital role. Skill influences the probabilities and can tilt them in our favor. Developing and honing your skills, as well as fostering a culture of continuous learning within your team, are key components of increasing the likelihood of success.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Continuous Improvement&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thinking in bets encourages a continuous improvement mindset. Instead of dwelling on past decisions and their outcomes, we focus on learning from our experiences. We adapt and evolve our strategies, building on our skills and expertise to enhance our decision-making capabilities.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The world of software engineering is a dynamic and uncertain landscape. We have to embrace uncertainty, recognize the interplay of skill and luck, and approach decision-making with a probabilistic mindset. By doing so, we can make better-informed decisions, cultivate a culture of learning and adaptation, and ultimately improve our chances of success in an ever-evolving field.&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/embracing-the-grey-a-probabilistic-approach-to-engineering-decision-making/</guid>
+      <pubDate>Fri, 20 Oct 2023 07:10:12 -0400</pubDate>
+    </item>
+    
+    <item>
+      <title>The Power of Simplicity: Why Complex Solutions Aren&#39;t Always Better</title>
+      <link>https://laurentparenteau.com/posts/the-power-of-simplicity-why-complex-solutions-aren-t-always-better/</link>
+      <description>&lt;p&gt;In the world of software engineering, complexity often takes center stage. We celebrate intricate algorithms, sprawling architectures, and convoluted code as signs of expertise. But what if I told you that complexity isn&amp;rsquo;t always the answer? In fact, more often than not, simpler solutions are not only easier to understand and maintain but also more effective in solving real-world problems.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s easy to understand why complexity is alluring. Complex code and systems can make us feel like we&amp;rsquo;re tackling profound problems, and they can impress colleagues and peers. After all, isn&amp;rsquo;t it an engineer&amp;rsquo;s job to deal with complex challenges and find ingenious solutions? While complexity certainly has its place, the obsession with it has its drawbacks.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Complexity&#34;&gt;Complexity&lt;/a&gt; characterises the behaviour of a system or model whose components interact in multiple ways and follow local rules, leading to non-linearity, randomness, collective dynamics, hierarchy, and emergence. — Wikipedia&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Complexity as a Double-Edged Sword&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Complex solutions often bring several problems to the table:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Maintenance Nightmare
+Complexity increases the maintenance burden. Code that is intricate and hard to follow can lead to a constant struggle to fix bugs, add features, or adapt to changing requirements. As your codebase grows in complexity, so does the likelihood of introducing new bugs when making changes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Knowledge Gaps
+Complexity creates knowledge gaps. When a system or piece of code becomes overly complex, it becomes challenging for team members to understand and modify. This leads to a situation where only a select few team members possess the expertise needed to work on that part of the system, creating bottlenecks and risks if they leave the team or organization.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Poor Performance
+Complex solutions can often lead to poor performance. More code paths, intricate algorithms, and excessive abstractions can slow down your application. In many cases, simpler solutions are not only easier to understand but also more efficient in terms of performance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;The Beauty of Simplicity&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Simplicity is not the same as laziness or a lack of ambition. Instead, it&amp;rsquo;s about finding the most straightforward and efficient solution to a problem. Here are some reasons why simplicity should be celebrated:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Easier to Understand
+Simpler code is easier to understand. When you write code that is clear, concise, and straightforward, not only is it easier for you to grasp, but it&amp;rsquo;s also easier for your colleagues to understand. This promotes better collaboration and makes it easier to onboard new team members.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced Bugs
+Simple solutions tend to have fewer bugs. When you have a clear understanding of the code you&amp;rsquo;re working with, you&amp;rsquo;re less likely to introduce errors when making changes. In complex systems, bugs can hide in the labyrinth of code paths, making them harder to detect and fix.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Faster Development
+Simplicity often leads to faster development. With a simpler codebase, you spend less time deciphering and navigating the complexities, and more time writing and testing new features. This can accelerate your development process and help you respond to changing requirements more efficiently.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Better Performance
+Simple solutions can also result in better performance. Less convoluted code tends to be more efficient, as there are fewer layers of abstraction and indirection. In many cases, a straightforward approach can outperform a convoluted one.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;When to Choose Complexity Over Simplicity&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Of course, there are situations where complexity is warranted. Certain problems are inherently complex, and simplicity can lead to oversimplification, which isn&amp;rsquo;t a solution either. When dealing with large-scale distributed systems, cryptographic algorithms, or some cutting-edge AI models, complexity is a necessity.&lt;/p&gt;
+&lt;p&gt;However, even in complex domains, it&amp;rsquo;s essential to strive for simplicity within the complexity. For example, you can isolate the complexity in well-defined modules or components, keeping the rest of your codebase as simple as possible. This makes it easier to reason about and maintain your system.&lt;/p&gt;
+&lt;p&gt;As software engineers, we must learn to strike a balance between complexity and simplicity. Complexity should be a tool in our toolkit, but not the default choice. By embracing simplicity, we can create code that is more maintainable, reliable, and efficient, ultimately leading to better software and happier developers.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Originally published on &lt;a href=&#34;https://www.platohq.com/articles/the-power-of-simplicity--why-complex-solutions-aren-t-always-better-xp7yzd076tc&#34;&gt;Plato&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/the-power-of-simplicity-why-complex-solutions-aren-t-always-better/</guid>
+      <pubDate>Wed, 11 Oct 2023 06:17:33 -0400</pubDate>
+    </item>
+    
+    <item>
+      <title>Picking the Right Tool for a Remote Engineering Team</title>
+      <link>https://laurentparenteau.com/posts/picking-the-right-tool-for-a-remote-engineering-team/</link>
+      <description>&lt;p&gt;&lt;strong&gt;The Problem&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When you have a remote engineering team, the tools you use are really important since you can’t use an office as a band-aid. We had some issues with our project management tools, where some information didn’t reach the relevant people. We needed to fix that to improve our productivity.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Actions Taken&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;My first action was to reach out to everyone involved and get more feedback on our current software engineering process, what’s working well and what isn’t. Using this information, I’ve clarified and fine-tuned our process and went searching for a new software product that would better fit that improved process.&lt;/p&gt;
+&lt;p&gt;Once we got that new software, we agreed to do a 1-month trial. Shorter than that wouldn’t have been enough to work out the kinks of the new tool. As expected, there were some bumps when we switched to it. Some team members wanted to cut the trial short, but I reminded everyone that our agreement was to try for 1 month, and we need to give this an honest attempt if we want to improve our productivity.&lt;/p&gt;
+&lt;p&gt;After the trial, I did a retrospective to gather everyone’s feedback. Some were positive, some were negative. It was about a 50/50 split between keeping this new tool vs. going back to our previous suite of tools. Neither options were compelling; we felt stuck.&lt;/p&gt;
+&lt;p&gt;Then I reviewed all the feedback - for the original suite of tools and the new tool - and realized that we actually had a third option available that was much better. It was actually possible to implement the new process (that we all preferred) using a subset of our old suite of tools (that most people preferred). So we could get the new, improved process AND use tools that the majority preferred AND reduce the number of tools we had to use. This was a win - win - win scenario.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lessons Learned&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While some people would consider the trial a failure (because we spent 1 month trying a tool that we didn’t keep and had to go back), this was actually a success. The goal of trying new things is to learn and improve. That trial allowed us to discover a new way of working with our existing tools, which resulted in improved productivity. It wouldn’t have happened otherwise.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Originally published on &lt;a href=&#34;https://www.platohq.com/articles/picking-the-right-tool-for-a-remote-engineering-team-1814071897&#34;&gt;Plato&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/picking-the-right-tool-for-a-remote-engineering-team/</guid>
+      <pubDate>Thu, 18 Mar 2021 20:34:31 -0400</pubDate>
+    </item>
+    
+    <item>
+      <title>Building a Cohesive Distributed Team</title>
+      <link>https://laurentparenteau.com/posts/building-a-cohesive-distributed-team/</link>
+      <description>&lt;p&gt;You’ve hired seven people, spread across 5 different time zones. You’re optimistic about your team; you’ve chosen them well and are looking forward to what you’ll build together. But now the easy part is done (hiring), you have to build that distributed team as a cohesive unit.&lt;/p&gt;
+&lt;p&gt;This is a challenge that all teams have, it isn’t specific to distributed team. But it is a challenge that all distributed team knows they need to tackle. When the team is all collocated, sometimes (but more often than most would admit), there’s a tendency to ignore it and assume it will be resolved on its own, that there’s no need to consciously do something about it.&lt;/p&gt;
+&lt;p&gt;The foundation of a cohesive team is communication. If you have good communication, the team can function as a single unit. If communication is lacking, things fill break apart over time and the team will become dysfunctional. Any situation, every event that happens, good or bad, can be traced back to communication.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/N1DOVQzKVwA?t=21&#34;&gt;Communication is a two way street&lt;/a&gt;. Messages transmitted need to be interpreted by the other side, and the interpretation part is as important. Ever played team games like &lt;a href=&#34;https://en.wikipedia.org/wiki/Pictionary&#34;&gt;Pictionary&lt;/a&gt; or &lt;a href=&#34;https://en.wikipedia.org/wiki/Cranium_(board_game)&#34;&gt;Cranium&lt;/a&gt;, where one team member need to guess what the other person meant? Some teams are much better at it than others. The same drawing, nobody else would guess, but that team member knows you enough that your intended message is clear and the person gets it.&lt;/p&gt;
+&lt;p&gt;So what you aim for, is having that level of good communication happening in your team. For this to be possible, a few aspects need to be considered :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Trust&lt;/li&gt;
+&lt;li&gt;Empathy&lt;/li&gt;
+&lt;li&gt;Understanding your mission&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Trust&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trust is the basis of any good communication. When there is no trust, you assume the message you receive is a lie and that you need to reinterpret it to really know the truth. Of course, whether it is a lie or not isn’t relevant because you don’t trust it anyway. While adversarial situation like that happens, this is definitely not something you want in your team. Hiring trustworthy people should be your number one goal when hiring, but sometimes mistakes happen. If you don’t feel that you can trust your teammates, don’t wait and dig right now into that, to understand why.&lt;/p&gt;
+&lt;p&gt;There are ways to build and increase trust in your team and you should look into that. But if you really think the person isn’t trustworthy, then consider that a bad hire, let the person go in the most human way possible, and move on.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Empathy&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Empathy&#34;&gt;Empathy&lt;/a&gt; is the capacity to understand or feel what another person is experiencing from within their frame of reference, that is, the capacity to place oneself in another’s position. — Wikipedia&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Without empathy, any diverging opinions can quickly devolve into an adversarial situation. Again, this is something you DO NOT WANT to happen in your team. When every body’s aligned, all is good. When it isn’t the case, you need empathy.&lt;/p&gt;
+&lt;p&gt;I believe the natural response that most people have when someone brings a different point of view, or says something that contradicts what you are already thinking, is a defensive response. You consider the different opinion to be an attack and you look for possible defenses against that imaginary attack. The tendency of this happening is a bit lower when the interaction is in person, because you get more cues (ie, voice tone, body language, etc.) about the person’s intent, but it definitely happens often too. Feeling attacked over an email or text message is more frequent because you lack those cues, so your brain fill it in and our evolutionary path led us to default on the side of considering everything to be an attack, unless you have evidence to the contrary.&lt;/p&gt;
+&lt;p&gt;That said, it is easy to counteract this natural reaction. Taking a few seconds (or minutes) before replying back is effective and super simple to do in text communication. As such, you should never hurry your replies, take the time to let your initial emotions and reaction pass and reply only when you’re clear headed.&lt;/p&gt;
+&lt;p&gt;An improved version of that is to ask clarifying questions, or rephrasing the other’s point using your own words, to make sure you understand the intent and all the details. This result in your taking more time before actually replying, but it also allows you to improve your understanding of the other person’s message. It is a rare occurrence that you really 100% understand exactly what the other person meant. By asking questions back, it help you clarify the picture and get more insight into the other’s thinking process. All that result in a better understanding, that will likely be that there was no attack intended here at all.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Understanding your mission&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Since the opportunities for random communication will be less (if not completely null) in a distributed environment, risk of everyone understanding the mission or goals of the business or team differently are higher. Difference in understanding can lead to differences in how to solve problems, what to prioritize, what to talk about, etc.&lt;/p&gt;
+&lt;p&gt;As such, making sure everyone really understand your mission and goals should be high on your priority list. This implies that you have a clear mission and goals in the first place, so if that isn’t the case, well, you know what to work on now. But once this is nailed, you should spam it around as much as you can. Keep repeating this over and over and over. If everyone really knows where you’re going, our brains fill in the blanks and rearrange our understandings to make it align in that direction. So every time a message won’t be 100% clear, the odds of the other person to interpret it “the right way” will be much higher.&lt;/p&gt;
+&lt;p&gt;This also reduces the chances of conflict because everyone works toward the same goals (ie. no internal competitions). Another nice side effect is that productivity will go up, again, because everyone will paddle in the same direction.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;There’s of course more to this, but it is mostly on the tactical side. Everything ends up resolving to either trust, empathy, and/or understanding of mission. Ensure those 3 aspects are good and you will have a cohesive (distributed) team.&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/building-a-cohesive-distributed-team/</guid>
+      <pubDate>Thu, 16 Jan 2020 16:15:46 -0400</pubDate>
+    </item>
+    
+    <item>
+      <title>Tips for Remote Workers in Remote-Unfriendly Environments</title>
+      <link>https://laurentparenteau.com/posts/tips-for-remote-workers-in-remote-unfriendly-environments/</link>
+      <description>&lt;p&gt;There’s a world of difference between a 100% remote business and a business where remote work is the exception. If you work remotely and are in that 2nd group, here are 7 tips to help you succeed in that situation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Look for a 100% remote environment, or at least a remote friendly place&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Might seem obvious, but isn’t. You have many reasons to work where you’re working. So think about this, be honest with yourself, and verify if it is really worth it. 100% remote and remote friendly workplaces are way better from a remote work environment point of view (of course). You aren’t an outlier there. You don’t start with 2 strikes against you. You don’t have to worry about hallway conversation you’re missing.&lt;/p&gt;
+&lt;p&gt;A workplace that view and value remote work will be aligned with your own situation, understand your needs, and know how to make remote works a stunning success for everyone.&lt;/p&gt;
+&lt;p&gt;Again, you may have other reasons to still want to stay in that remote-unfriendly place (greater learning opportunities, significantly better compensation, really care about the company’s vision, etc.). And that’s all fine if you decide it’s better for you to stay there. But at least have that be a conscious decision. Take the time to think about this and make that call. Don’t be afraid to leave if nothing holds you there.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Don’t stress out&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A major concern and cause of stress for remote workers is about how others (and specifically their manager) views their performance. There’s a flaw where many people equate physical presence in office with being productive. That’s obviously false. Measuring performance is not as simple (which I’ve discussed in a &lt;a href=&#34;https://medium.com/@laurent.parenteau/remote-work-problems-arent-related-to-remote-at-all-7f916e505272&#34;&gt;Remote Work Problems Aren’t Related to Remote at All&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;The first step here is to try to not stress about this. You are likely judging yourself much harder, and minimizing your own performance (because you only see yourself). Keep in mind that &lt;a href=&#34;https://www.inc.com/scott-mautz/a-2-year-stanford-study-shows-astonishing-productivity-boost-of-working-from-home.html&#34;&gt;remote workers are more performing&lt;/a&gt; anyway.&lt;/p&gt;
+&lt;p&gt;But even with that knowledge, you might still stress about this. I know I did. To help with that, I use some simple guidelines :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Do my best, all the time (ie. no procrastination)&lt;/li&gt;
+&lt;li&gt;I allocate myself a set amount of working hours per week, and stick to that as much as possible (yes, startups needs flexibility).
+If that isn’t good enough, then I should find another place to work as this isn’t a fit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Fortunately, that was never needed. Which would prove that I was stressing about this for no good reason. I know I do my best work, and that I “put in” a reasonable amount of time. So if everything else is a match, those guidelines should ensure my performance all good.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Try to over communicate&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When you work remotely, it is impossible to over communicate. Impossible. So your goal is to communicate as much as possible, trying to achieve that impossible goal. It is the only way you can end up communicating just the right amount. You might feel you communicate too much, but trust me, you are likely communicating just enough.&lt;/p&gt;
+&lt;p&gt;This is true even in 100% remote environment, but much more important when you are one of the few working remotely. In that scenario, other people won’t be communicating enough. By overcompensating, you will trigger those moments when others reply with “Oh yes, sorry we forgot to tell you about this change”. If you don’t make it happens, you will be left behind and either let go or you’ll leave on your own.&lt;/p&gt;
+&lt;p&gt;So whatever communication channel you have, whether it is Slack or email or Google Meet, use and abuse them. You want to be heard, you want others to understand where you stand, you want to get feedback if you are on the wrong path. So spam away!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Don’t use remote as an excuse&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;That one may be obvious, but it is worth mentioning. If everyone in your team is working from the office and you’re the only one working remotely, the worst thing you can do is use that as an excuse. It is never constructive to use excuses anyway. But if you are the only one with that privilege, you really don’t want to bring attention to this. If remote causes you some unique challenges, then you have to figure a way to fix that.&lt;/p&gt;
+&lt;p&gt;Asking others for help would be fine in an environment that is supportive of remote work. But if you are the only remote worker in your team, it took you lots of efforts to convince them to allow you to work remotely (or join the team as the first remote employee), they might be waiting to see how this experiment will fail. It is harsh, yes (that’s why you’d be better working somewhere that remote work is welcomed), but that’s the reality.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interpret communication in good faith&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Remote work use a lot more of written communication. But it is easier to misunderstand tones and intents in written form. As such, you should interpret everything assuming the other person is in good faith. Don’t take anything personally, don’t assume bad intention or any other negative / aggressive stance from others.&lt;/p&gt;
+&lt;p&gt;That’s basically the &lt;a href=&#34;https://en.wikipedia.org/wiki/Robustness_principle&#34;&gt;Robustness Principle&lt;/a&gt;, applied to human-to-human communication.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Be conservative in what you do, be liberal in what you accept from others. — &lt;a href=&#34;https://en.wikipedia.org/wiki/Jon_Postel&#34;&gt;Jon Postel&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Even if that isn’t always easy for everyone all the time, since you aren’t face-to-face with the other person, you can take the time to pause, breath, and make sure you’re calm before replying back. This goes a long way toward allowing you to interpret communication in good faith.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Don’t use sarcasm or irony; be factual and well intended&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is actually the 1st part of the Robustness Principle : &lt;em&gt;“Be conservative in what you do”&lt;/em&gt;. Sarcasm and irony, when used in written communication, are hard to distinguish as such. You want the other person to really understand the message you are writing, so have it clear, concise, and well intended. Especially when others aren’t used to remote work, they might not know about “be liberal in what you accept from others”, so the risk of them understanding bad intent in what you wrote is hire.&lt;/p&gt;
+&lt;p&gt;That’s also a good reason to keep hard conversion for video chat as much as possible. When you have video support, it greatly reduces the risk of misunderstanding, as you have the full body language to help you understand the other person’s feelings and reactions, so you can adjust your message as you go along, and clarify what isn’t understood correctly immediately.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Be proactive and willing to do the extra work&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Finally, keep in mind that if your remote situation works against you AND you want to keep this job, you will have to constantly prove you are worth it. You need to be a top achiever. Being proactive, keeping an eye on which area you can help and provide value will go a long way toward that.&lt;/p&gt;
+&lt;p&gt;If you are the only remote worker, odds are that productivity will be (at least partially) judged by how much time you spend in the office. Which is an obvious problem for you. By being proactive and more productive than others, you can make sure you stay top of mind. That even if you aren’t seen, people will notice you anyway.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Originally published on &lt;a href=&#34;https://medium.com/@laurent.parenteau/tips-for-remote-workers-in-remote-unfriendly-environments-aa8efe3d9e8d?source=friends_link&amp;amp;sk=efe43b5c9b226133d0827a2221150bbd&#34;&gt;Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/tips-for-remote-workers-in-remote-unfriendly-environments/</guid>
+      <pubDate>Fri, 15 Nov 2019 19:06:29 -0400</pubDate>
+    </item>
+    
+    <item>
+      <title>Minimal Tool Box for Remote Startups</title>
+      <link>https://laurentparenteau.com/posts/minimal-tool-box-for-remote-startups/</link>
+      <description>&lt;p&gt;For most things, whether a startup is remote or not doesn’t make much difference in what you need. The tools you need depends on what you are actually building, not how your business is organized. But there are 3 needs that are crucial for remote startups. They all revolve around communication.&lt;/p&gt;
+&lt;p&gt;As the business and the team grows and mature, like all things the tools you used will evolve. Some will be added, some will be abandoned, that’s expected. As such, it is better to start with a minimal setup and adjust as needed. No two teams are the same, so blindly copying the 42 tools setup of some other startup is a bad idea.&lt;/p&gt;
+&lt;p&gt;What you need initially is simply to fulfill those 3 needs :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Text communication&lt;/li&gt;
+&lt;li&gt;Video communication&lt;/li&gt;
+&lt;li&gt;Collaborative documents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Text Communication&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is how you’ll communicate with your team 99% of the time, since you can’t walk to the other person’s desk. There’s obviously emails, and you might actually be fine with that at the beginning. So if emails works for you stick with this. But managing email chains can become ugly quickly once you’re more than 2–3 people and can’t just always send to everybody. Emails are also not visible to new employee joining, so information sharing of past decision is problematic.&lt;/p&gt;
+&lt;p&gt;As such, some other text communication tools that keep the messages better organized and where new employees get to see all the previous conversation automatically is better.&lt;/p&gt;
+&lt;p&gt;There’s obviously &lt;a href=&#34;https://slack.com/&#34;&gt;Slack&lt;/a&gt;, but many more exist as well, some focusing on remote only environment (which means they’re more aware of the needs you might have). We’ve found that &lt;a href=&#34;https://twist.com/&#34;&gt;Twist&lt;/a&gt; works well for us, but &lt;a href=&#34;https://threads.com/&#34;&gt;Threads&lt;/a&gt; is another popular with for remote teams.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video Communication&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Some people argue about video communication, but I think it is crucial to have this, since it’s the most powerful tool you have initially to get your team to know each other, create empathy, and build your culture. Depending on how much your team is spread across the globe, it might not be easy to have video calls with everyone. That said, even if they aren’t frequent, they tremendously help with team building and getting to know each other.&lt;/p&gt;
+&lt;p&gt;While it is easy to discuss with others in a video call, keep in mind that this doesn’t leave any documentation about the decision process or the resolution. For that reason, many decisions should be made using text communication instead. The big benefit of video communication is really around team building and highly sensitive topic where being able to rely on visual clues to understand the intents and subtleties of the discussion. So it’s likely a good idea to have culture guidelines around when to use text communication and when to use video communication.&lt;/p&gt;
+&lt;p&gt;There’s a lot of free solutions out there, which do a good job, so you should really start with those. After some time, you might see some issues or aspect you don’t like. Only then, you can start looking for other video communication tools (likely paid) that offer those features you’re after. There’s no good reason to start with a paid tool, even if it has a good reputation, until you need if you need any of the additional features.&lt;/p&gt;
+&lt;p&gt;In our case, we had started with &lt;a href=&#34;https://meet.google.com/&#34;&gt;Google Meet&lt;/a&gt; and &lt;a href=&#34;https://slack.com/&#34;&gt;Slack&lt;/a&gt;. But as we added more people on the team, we didn’t like that you can’t see everyone simultaneously on the screen. So we went with &lt;a href=&#34;https://whereby.com/&#34;&gt;Whereby&lt;/a&gt; as it supports a mosaic view up to 12 people.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborative Documents&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Same as video communication, one could argue that this isn’t require either, but I don’t see a way around that. You could send documents by email, sure, but we aren’t in the 90s anymore. Online collaborative editing really improve productivity and information sharing.&lt;/p&gt;
+&lt;p&gt;You should get something that cover the basic tools (spreadsheet, document, images) and start with that. There are tons of more specialized solutions, but you should pick them as you find the need for them. Again, don’t use something just because others are using it. You can do everything with normal spreadsheet, document, and drawing tools. So start with that and evolve as needed.&lt;/p&gt;
+&lt;p&gt;For us we picked &lt;a href=&#34;https://gsuite.google.com/&#34;&gt;GSuite&lt;/a&gt;, but whatever you prefer. Over time we started to use more specialized tools for some tasks, like &lt;a href=&#34;https://trello.com/&#34;&gt;Trello&lt;/a&gt; and &lt;a href=&#34;https://clubhouse.io/&#34;&gt;Clubhouse&lt;/a&gt;. But it is important to start with just the basic tools. The less invested your are (from a process point of view) in specific tools, the easier it will be to keep evolving your process as you grow. Generic tools are more flexible (by definition) which makes it easy to change your process. Once you invest time into setting up a more specialized tool, it makes it harder to change your process or change tools.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Start with the basic, then evolve with your team as you grow and learn to work together. It is easier to add than remove, so starting with a minimal set of tools, only the one that fills essential needs, you are doing yourself and your team a huge favor.&lt;/p&gt;
+&lt;p&gt;Once you have something for text communication, video communication, and collaborative documents, you should be all set. Now get that remote business rolling!&lt;/p&gt;
+&lt;p&gt;*Originally published on &lt;a href=&#34;https://medium.com/@laurent.parenteau/minimal-tool-box-for-remote-startups-eb7bf2476c4c?source=friends_link&amp;amp;sk=bc2697b16dbdf0f398b0d1f2254d78a7&#34;&gt;Medium&lt;/a&gt;&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/minimal-tool-box-for-remote-startups/</guid>
+      <pubDate>Mon, 23 Sep 2019 19:06:29 -0400</pubDate>
+    </item>
+    
+    <item>
+      <title>Remote Work Problems Aren’t Related to Remote at All</title>
+      <link>https://laurentparenteau.com/posts/remote-work-problems-arent-related-to-remote-at-all/</link>
+      <description>&lt;p&gt;No problems are specific to remote work. Every time someone claims “this is a problem with remote work”, it is wrong. All the problems you have in a remote work environment, you actually have them in an office environment too. ALL of them!&lt;/p&gt;
+&lt;p&gt;There are two main reasons why people think some problems are specific to remote work environment :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;They confuse symptoms for problems;&lt;/li&gt;
+&lt;li&gt;They are blind to the fact that the problem is present in the office environment too.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Confusing symptoms for problems&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Confusing symptoms for problems happens frequently, in every sphere of activities. If you see something wrong, that’s a symptom. To find the root cause, the underlying issue, the real problem, you need to spend time, investigate, think about it. As a general rule, a single problem can manifest through multiple different symptoms, simultaneously or not. Symptoms for the same problem and also be different, varying based on environment conditions, people involved, culture, etc.&lt;/p&gt;
+&lt;p&gt;You can’t solve a problem by fixing the symptoms. At best, you can mask a problem, reduce the symptoms enough to tolerate the problem. This can work for some time, but since symptoms varies, you should expect to see new symptoms appears over time for the same problem.&lt;/p&gt;
+&lt;p&gt;If you want to solve a problem, you can’t do that by fixing symptoms. You have to work on the problem itself. Once the problem is solved, the resulting symptoms won’t exist anymore either. More importantly, they won’t come back (since the problem is solved for good).&lt;/p&gt;
+&lt;p&gt;For example, “people are showing late for work” is not a problem, it’s a symptom. The problem could be a lack of interest about the work, not knowing what are the expectation around “being in office” hours, not being able to come in early because of traffic or having to drop kids at school, etc. Without digging deeper into the situation, you won’t know what the real problem is. If you think you’re solving the problem by having a mandatory meeting early in the day, well, you’re not. An early meeting won’t increase interest about work, won’t clarify what the expectations are, won’t help with traffic, and won’t have the school open sooner.&lt;/p&gt;
+&lt;p&gt;It is faster/cheaper/easier to act on symptoms. It gives the impression of doing something to fix the problem. It gives the impression of being in control and doing a good job. That’s why we frequently see this happening. Consciously or not, people will fix symptoms instead of working on the underlying problem.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Blind to the problems&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When you are in an office environment, many problems can go unseen. Since you have everybody in the office, the fact that people are physically present blind you of many problems. It can also give you false confidence about many aspects of work culture, which means you don’t even think about those topics, which means you have no way of even considering that there could be a problem in the first place.&lt;/p&gt;
+&lt;p&gt;The easiest example for this is that many will equate presence in office with productivity. So if productivity isn’t enough, the number one solution is to ask people to spend more time in the office (extended hours, no outside lunch, etc.). But slacking in office is an art and many people are good at it. Just because someone is in the office doesn’t mean he’s working anyway. So there was and still is a productivity problem (which is likely caused by something else, as discussed above), but many won’t see it because… people are in office 10 hours a day! There’s just too much work! Not enough resources! But if people were working remotely, the same productivity problem would likely been seen way sooner (before it gets too problematic), as you’d be paying much more attention to this, instead of equating physical presence with productivity.&lt;/p&gt;
+&lt;p&gt;Basically, everything you make mandatory has a high chance of rendering you blind to some potential problems. When it isn’t mandatory, you see what doesn’t work right away because nothing is happening. Or people will let you know about the problems because they’ll see them. When something is mandatory, well, people do it. So any problems that would cause people do NOT do it won’t be apparent (but still exist and cause other issues). Since mandating time in office is a big requirement, this has a significant clout and can mask many problems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Like everything, there’s always exceptions so yes, there are some challenges that are unique to remote environments, but they are small, not that important. The big stuff you have to care about, the problems that can ripples in the organisation and wreak havoc, those problems aren’t related to the work environment itself. As such, in office or remote, doesn’t make a difference.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Originally published on &lt;a href=&#34;https://medium.com/@laurent.parenteau/remote-work-problems-arent-related-to-remote-at-all-7f916e505272?source=friends_link&amp;amp;sk=06a28c5ffa18c257e96095c81cf7b611&#34;&gt;Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/remote-work-problems-arent-related-to-remote-at-all/</guid>
+      <pubDate>Fri, 30 Aug 2019 19:06:29 -0400</pubDate>
+    </item>
+    
+    <item>
+      <title>Building Your Initial Engineering Team</title>
+      <link>https://laurentparenteau.com/posts/building-your-initial-engineering-team/</link>
+      <description>&lt;p&gt;&lt;strong&gt;The Problem&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When I joined an early stage startup as the first engineer, one of my goals was to build out the initial engineering team we needed. Building that initial engineering team is really critical and it must be done right.  Having an initial team that is great (or bad) will have a huge impact on the startup as a whole. So I had to be sure I was building the right team.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Actions Taken&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;First, I spoke with the CEO to really understand the mission and vision of the company.  We discussed what was envisioned for the initial product and where it could go.  Based on that information I was able to build a high-level architecture of the whole platform. This allowed us to all have a clear understanding of what needed to be done. From there it was easy to list the types of skills needed on the team to complement my own, as well as how many people we actually needed.&lt;/p&gt;
+&lt;p&gt;Once we knew the technical profiles we needed and how many people, the second step was to determine the soft skills or culture profile we wanted for our engineering team.  We already had a general culture we wanted for everybody in the company, so I had to complement that with an engineering specific culture.  I took the time to do some reading and think about the type of engineers we needed for our specific product, the current stage of the company, and the fact that we’re 100% remote.&lt;/p&gt;
+&lt;p&gt;This list served us very well since it provided clear guidance for every step in the hiring process-  from candidate screening until making sure potential candidate would actually be happy to work with us. I think this is often considered second priority to technical skills, but I believe that is the wrong approach.  Culture is at least equally important if not more. Therefore you should spend more time figuring out your culture and only start the hiring process itself once you have a clear picture of exactly what you want. Thus, our hiring process was devised to put the emphasis on the cultural aspect.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lessons Learned&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Using that process we’ve been able to create a really great initial engineering team.  Launching a startup is full of challenges and hiccups, especially in the early days. Having an engineering team that can cope with this and can help you move forward through that phase is extremely important. I am really happy we prioritized deciding on our culture first and hiring for that.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Originally published on &lt;a href=&#34;https://www.platohq.com/articles/building-your-initial-engineering-team&#34;&gt;Plato&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/building-your-initial-engineering-team/</guid>
+      <pubDate>Fri, 02 Aug 2019 19:06:29 -0400</pubDate>
+    </item>
+    
+    <item>
+      <title>Intel gathering from the interview process</title>
+      <link>https://laurentparenteau.com/posts/intel-gathering-from-the-interview-process/</link>
+      <description>&lt;p&gt;The purpose of a job interview is two fold :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Employer figures out if he wants you&lt;/li&gt;
+&lt;li&gt;You figure out if you want to work with them&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Many people forget about that 2nd point, but it is equally important. Now, to figure out if you want to work with them, you can ask questions. But you can also learn a lot from the interview process itself and how its conducted. You just have to pay attention to what is (not) said.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How are they conducting the interview process?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Openness about the interview process often match openness within the company as well. If they don’t share anything about what’s coming up, even if you ask them, I’d safely assume that asking questions once you’re employed will end up with the same non-answers. If they are happy to share, that’s a good sign. If they explain it all without you having to ask anything, it shows that they care about you and you’ll likely get the same openness and explanation about the business once you’re in.&lt;/p&gt;
+&lt;p&gt;Another aspect is if they actually follow up when / as they told. If they don’t or go silent, that’s not a good sign. They’re basically telegraphing that they only care about you when they want something from you.&lt;/p&gt;
+&lt;p&gt;Now, there are a lot of material now about building good interview process, so I think this signal is become less relevant as time goes. A lot of bad businesses have a great interview process. That said, I’ve never heard of a good business having a really bad interview process. So it is still good to filter out some bad place to work.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What are their questions topic?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Questions you’ll be asked generally falls in 3 buckets:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Technical : coding, system design, architecture, algorithms, etc.&lt;/li&gt;
+&lt;li&gt;Soft skills : emotional intelligence, behavioral, situational, etc.&lt;/li&gt;
+&lt;li&gt;Product oriented : user experience, product’s purpose, domain knowledge, etc.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Those are all good questions, no doubt. What you’ll see is that the amount of questions in each of those buckets will differ between businesses (and even teams). Some interview process will be light on soft skills and product questions, but you’ll spend more time on technical stuff. Elsewhere you might get a smaller amount of technical questions, but lots on product. Obviously, this also depends on the role you’re interviewing for.&lt;/p&gt;
+&lt;p&gt;What is good to do is, for similar roles in different businesses, compare how many questions (or importance of those questions) were in each bucket. That way, you’ll see what’s more important for them. Why you’d care about this? You can infer a lot from that information.&lt;/p&gt;
+&lt;p&gt;If technical is top most, you might expect :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An engineering 1st culture, where engineering qualities of the product are more important than a user driven product development.&lt;/li&gt;
+&lt;li&gt;Team members are likely great individual contributor, but the whole team might not work well together.&lt;/li&gt;
+&lt;li&gt;Can be a good place to learn technical skills from top engineers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If soft skills are top most instead, you can expect :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A people first culture, where employee happiness and well being is the most important thing, expecting that product and company success result from that.&lt;/li&gt;
+&lt;li&gt;Teams working well together, less conflicts, less politics at work&lt;/li&gt;
+&lt;li&gt;Can be a good place to learn leadership skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If product is top most, you might expect :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A user 1st culture, with a user / market driven product development, where engineering is put to service of the user. Expect more refactoring, more iterations, shipping faster, etc.&lt;/li&gt;
+&lt;li&gt;Team members likely care about the users, but might not work well together depending on how strong beliefs about what’s best for the user are held.&lt;/li&gt;
+&lt;li&gt;Can be a good place to learn about product development, product market fit, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Of course, we aren’t in a binary world, so you’ll get a mix of those questions, and from that you can rate that work place. But those are guesses; will be wrong for some places. Still, making an educated guess when you’re about to make important decisions is a really good idea.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Originally published on &lt;a href=&#34;https://medium.com/@laurent.parenteau/intel-gathering-from-the-interview-process-77b6d8f32ea7?source=friends_link&amp;amp;sk=129f3b62be8da8b854321bd458f0032d&#34;&gt;Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/intel-gathering-from-the-interview-process/</guid>
+      <pubDate>Fri, 05 Jul 2019 19:06:29 -0400</pubDate>
+    </item>
+    
+    <item>
+      <title>Leadership Lessons from Parenting</title>
+      <link>https://laurentparenteau.com/posts/leadership-lessons-from-parenting/</link>
+      <description>&lt;p&gt;Learning comes from all activities, and interacting with children actually teach you many great lessons applicable to leadership. Or is it the other way around? That’s a debate for another day. Whether you have kids or not, those lessons are relevant for anyone in a leadership position or looking for it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;When you say you’ll do something, do it.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Best way to gain trust, respect and credibility is to do what you’ve told you’ll do. Even if it’s a small thing, or you think it doesn’t matter, or they will likely not care, or they will likely forgot… Do it anyway! Over time, they’ll learn that they can trust what you say.&lt;/p&gt;
+&lt;p&gt;If you don’t, then they will start to ignore what you say since they don’t know if that’s actually true or not. There’s a saying : “actions speak louder than words”. If your words aren’t followed by action, people won’t care about your words anymore. They won’t consider them to show which action will come.&lt;/p&gt;
+&lt;p&gt;With children, you see that quickly. When someone do as he said, kids pick it up fast and then take it into account (they might still not listen, but for other reasons). It’s exactly the same as leader.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you want them to become good at making decisions, let them decide.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This one is hard to apply. You want what’s best for your kids, and you have more experience so you want to spare them all the failure you had yourself. But this actually prevent them from learning. So you have to let them decide as much as possible, so they can learn how to make decisions on their own.&lt;/p&gt;
+&lt;p&gt;Same thing for your team. How can they learn to make decision if you decide everything for them? Yes, there will be mistakes. Yes, they won’t make the same choice as you. But most of the time, it doesn’t matter. No big problem, no harm done. Most of the time, the difference between yours and theirs isn’t that significant.&lt;/p&gt;
+&lt;p&gt;You don’t let a two years old learn on his own that playing with a gun is dangerous. You have to set boundaries, and let him make the decision that’s capable of. Just as you likely wouldn&amp;rsquo;t let a new junior employee full control over the production system without supervision.&lt;/p&gt;
+&lt;p&gt;But whenever possible, whenever the decision is within the capacity of the person, you should favor letting them decide.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is obvious to you may not be to them, explain your decision and reasoning.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When kids are young, everybody understands that. But as they get older, people assume they reason and understand the same thing as an adult. But even if they speak fluently and read books and can do pretty much everything on their own, they still don’t have the same experience as you, the same baggage. Many things you take for granted or self evident aren’t for them (yet). Explaining your decision, in addition to resolving that misunderstanding issue, also help them form and improve their own thinking. They get to understand why you made that decision, they can even ask questions to increase that understanding.&lt;/p&gt;
+&lt;p&gt;The same thing apply when you lead others. They aren’t in your head. The reason why you made a decision isn’t necessarily clear to others. Worst, they might even think you made that decision for the wrong reason. But by describing the reasons behind your decision, you ensure there’s no misunderstanding. Same as for kids, this can prompt them to ask questions, which is a healthy. You’ll be sure everybody is aligned.&lt;/p&gt;
+&lt;p&gt;People learn a lot from others, so sharing your decision making process allow others to grow as well. It serves as example, template, or reference point for them. Even in the case where they think your decision is bad, if they know how you reached that decision, they might see a pattern they don’t want to follow themselves!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you don’t listen to them they will stop talking to you.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;My love has a poster near her desk that says :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you don’t listen to the small things when they are small, they won’t tell you the big things when they are big. Because it was big things for them all along.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;You want kids and teammates alike to get into the habit of speaking, of telling things, of sharing their thoughts, their concerns, their ideas, their feelings.&lt;/p&gt;
+&lt;p&gt;There’s a big difference between hearing someone talk, and listening to them. Hearing other is meaningless, waste time, and can make them feel miserable. You have to listen. If you’re thinking about what you’ll say next, that’s not listening. If you’re thinking about something else (you’re busy you know), that’s not listening. If you’re thinking about rebuttals or argument as the other is talking, that’s not listening. If you’re waiting for them to be done just to reply “thank you, but no thanks”, that’s not listening.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you want them excited about a journey, present it to them from their idea of fun.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Everyone’s priorities are different. Our values, what we like, what we dislike, what feels important and what doesn’t are different too. This means that if you want someone to be excited about your project, about the trip you’re planing, about the journey ahead, you have to point out the details that are exciting for the other peoples.&lt;/p&gt;
+&lt;p&gt;This implies you know what they like, what they’re looking for. This implies you need to talk to them and listen (see point above). You have to pay attention to what motivates them, what makes them happy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;They look at how you handle hard situations and follow your steps.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There’s a big debate about nature vs nurture, but everybody agrees that kids learn from looking at how other people around behave. This is actually a key characteristic of every social animal. So no surprise, we keep doing that as we get older too. One difference when we’re older is that we might be aware of that fact, so we can be critical and reflect on what other people did before adopting their behavior. Not everyone does that, or does that all the time, but kids just can’t (yet).&lt;/p&gt;
+&lt;p&gt;This is why it is really important that as a leader, you think about how you react to events. How you handle hard situations. How you behave. You’re being evaluated - either consciously or not - by others. If you are trying to build a great them, you have to show a great example. Social behaviors are contagious, so if you behave badly or there’s a good chance your team will behave the same.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Moral to this story is…&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There are many other lessons that can be learned from interacting with kids and applied to leadership in general, and vice versa. The truth is, kids are human beings too (ah! surprise!). So the fundamental aspect of being a good leader are the same. Age only makes a difference for details, or make some behavior more apparent (which is why it might be easier to pick leadership lessons from some groups). At a high level, things are the same.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Originally published on &lt;a href=&#34;https://medium.com/@laurent.parenteau/leadership-lessons-from-parenting-16c689d26ae7&#34;&gt;Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/leadership-lessons-from-parenting/</guid>
+      <pubDate>Fri, 10 May 2019 19:06:29 -0400</pubDate>
+    </item>
+    
+    <item>
+      <title>Finding the Best Standup Setup for Your Team</title>
+      <link>https://laurentparenteau.com/posts/finding-the-best-standup-setup-for-your-team/</link>
+      <description>&lt;p&gt;&lt;strong&gt;The Problem&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We were working on a critical project, with a huge emphasis put on delivering on time.  I realized that the critical nature combined with the time bound constraint was causing some stress for the team.  The team needed to be focus on the goals we had instead of worried about possible outcomes and other conjectures.  I knew that if the stress wasn’t relieved, we wouldn’t be able to succeed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Actions Takens&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;My first action was to discuss with the team about the company’s goal and why this project was critical.  I wanted to be sure that we all had the same understanding, and checked with everyone to confirm that they understood and agreed why the time constraint was needed.  With the reassurance that we were all aligned on this journey, I moved to discuss how they felt about this, trying to not project my own view that they were stressed.&lt;/p&gt;
+&lt;p&gt;This was a candide discussion, where many did mention that they were stressed by this pressure.  Digging a bit deeper, we concluded that one reason for the stress was that the team felt that there were too many meetings (harming their productivity) and that just the interruption from those meeting was getting them out of their flow.  Based on this, we agreed to explicitly state the meetings that were optional to some people, cancel some, but also move to a virtual standup.  The virtual standup allowed everyone to report and raise questions in a Slack channel, anytime they wanted between a fixed time period.  That way, they could do that as their first task in the morning (whenever they started their work day), then get in the flow of working on their stories.  At lunch they would review what others had written and catch up that way.&lt;/p&gt;
+&lt;p&gt;After 2 weeks we reconvened to see if that reduced the stress, but also if it  had negative impact on other things.  While some people were happy with this change, others raised some dissatisfactions, as they felt the reduction in social interactions, and also started to felt that they weren’t aware of everything that was going on.  We agreed to have a weekly engineering only meeting, so I could share update and have the team sync up in person.  Again, we agreed to check back in 2 weeks and see how things evolved from here.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lessons learned&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Each team is different, and even change over time.  Being able to constantly check on your processes for ways to improve and match the current situation is really important.  Simply following patterns applied in other company blindly prevent you from finding the best solution for your team.  There’s no perfect solution, so you have to keep tuning for the current situation, making appropriate trade off so your team can be at his best.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Originally published on &lt;a href=&#34;https://www.platohq.com/articles/finding-the-best-standup-setup-for-your-team&#34;&gt;Plato&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/finding-the-best-standup-setup-for-your-team/</guid>
+      <pubDate>Wed, 17 Apr 2019 19:06:29 -0400</pubDate>
+    </item>
+    
+    <item>
+      <title>Beyond Fixed Sprint Duration</title>
+      <link>https://laurentparenteau.com/posts/beyond-fixed-sprints-duration/</link>
+      <description>&lt;p&gt;Everything starts for good reasons. When you start a new project, getting a cadence, a sense of progress, a way to see the journey done so far and what lies ahead provide benefits. But has you progress, it is time to revisit this cadence.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Choosing a sprint length at the start of each sprint is a waste of energy. Experiment with a couple of lengths, make a decision, and stick with it until there is a significant reason to change. — &lt;a href=&#34;https://www.mountaingoatsoftware.com/blog/the-four-reasons-to-have-a-consistent-sprint-length&#34;&gt;Mike Cohn&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Sprint duration gets fixed because it’s supposed to help. But do you always need that help? I say no. You should outgrow the need for fixed duration sprint. Like a crutch help you at first, but once you feel better you feel fine to walk alone. And the crutch is slowing you down at that point anyway.&lt;/p&gt;
+&lt;p&gt;The best rhythm is natural. It fit the process without problem, because it kinda happen anyway if you don’t do anything special. But what if the natural rhythm for developing stories isn’t the same as for doing the design work? What if it isn’t the same as what works for QA, or production deployment? Even more, what if it vary from story to story? If you have a fixed sprint duration, it would not fit the natural rhythm of the majority of the tasks involved.&lt;/p&gt;
+&lt;p&gt;With fixed sprint duration — the length doesn’t matter — you are forcing an unnatural cycle on your team. Will work for some, will make others’ lives harsher.&lt;/p&gt;
+&lt;p&gt;Work doesn’t have to be that way. If you let go of the fear of not doing exactly the same popular fixed sprint pattern and look for solutions that better suits you and your team instead, you open a door on endless possibilities. Should you consider a pull approach instead ala Kanban? Or varying the sprint duration based on size of stories? What about decoupling prioritization of stories from development from QA from deployment, having difference cadence for each? You can re-prioritize the backlog every 2 weeks, have 1 week long sprint, 3 days short QA cycle, and deploy on Monday whatever is viable at that point?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There are teams delivering value in shorter cycles: e.g. Google and Facebook perform continuous delivery and release an updated product multiple times per day. While continuous delivery can be done within the Scrum framework, some of these teams apply other agile frameworks like Kanban. — &lt;a href=&#34;https://hackernoon.com/what-is-the-optimal-sprint-length-in-scrum-368e966f3243&#34;&gt;Matthias Orgler&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The idea is to take the time and think about this. Why are you using a fixed sprint? It might be what’s best for your team currently, but maybe not. Discuss this with your teammates and see if you could improve your productivity by giving you more flexibility on that part. You don’t become a rock star by following the trend; you have to find your own rhythm.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Originally published on &lt;a href=&#34;https://medium.com/@laurent.parenteau/beyond-fixed-sprints-duration-6292dea2d252&#34;&gt;Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/beyond-fixed-sprints-duration/</guid>
+      <pubDate>Sat, 13 Apr 2019 19:06:29 -0500</pubDate>
+    </item>
+    
+    <item>
+      <title>The Most Valuable and Underrated Books for Software Engineers</title>
+      <link>https://laurentparenteau.com/posts/the-most-valuable-and-underrated-books-for-software-engineers/</link>
+      <description>&lt;p&gt;You want to become a better software engineer. You learn new tech stack, you do hackathon, you’ve read &lt;a href=&#34;https://en.wikipedia.org/wiki/Code_Complete&#34;&gt;Code Complete&lt;/a&gt; twice and follow &lt;a href=&#34;https://twitter.com/kentbeck&#34;&gt;Kent Beck on Twitter&lt;/a&gt;. That’s all good. But focusing only on the technical side is a mistake.&lt;/p&gt;
+&lt;p&gt;It is important to do cross-domain learning as well. Arts, fiction, biology, physics, woodworking, etc. By learning from other domains, you look at similar problems or concepts from a different point of view. This lead to more insight into your own craft. And THAT is what will make you a better software engineer. Better than your peers.&lt;/p&gt;
+&lt;p&gt;While I encourage others to keep this broad and diversified, I have found some books to be particularly relevant to software engineers.&lt;/p&gt;
+&lt;p&gt;I’ll explain why I picked those books below, but for the impatiens…&lt;/p&gt;
+&lt;p&gt;TL;DR Every software engineer should read those 4 books, but most haven’t :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things&#34;&gt;The Design of Everyday Things&lt;/a&gt;, by Don Norman&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Mythical_Man-Month&#34;&gt;The Mythical Man-Month: Essays on Software Engineering&lt;/a&gt;, by Fred Brooks&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People&#34;&gt;How to Win Friends and Influence People&lt;/a&gt;, by Dale Carnegie&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Elements_of_Style&#34;&gt;The Elements of Style&lt;/a&gt;, by William Strunk JR and E. B. White&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://cdn-images-1.medium.com/max/600/1*qVNfoMiY8pXVUoYVO6ZpYw.jpeg&#34;
+  alt=&#34;The Design of Everyday Things cover&#34;
+  loading=&#34;lazy&#34;
+  decoding=&#34;async&#34;
+  class=&#34;full-width&#34;
+/&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Software engineering is about building stuff. And other people will use what you build. Design is about interaction, how what you build interact with others. This goes at all levels, from GUI to physical interaction to APIs.&lt;/p&gt;
+&lt;p&gt;While not all software engineers need to be good at graphic design, it is a critical skill to be good at UI/UX, even if what you create is a low level library, other software engineers will use it.&lt;/p&gt;
+&lt;p&gt;Understanding design also provides a lot of insight about UI/UX designers do and how they think. Whenever you communicate with someone, the more you understand his world view, the more you can empathize with them. So learning about design improve both your own work, but also your communication ability with a key person in the software world.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://cdn-images-1.medium.com/max/600/1*ExKDxlq3C2aaR6-mNUmHSQ.jpeg&#34;
+  alt=&#34;The Mythical Man-Month cover&#34;
+  loading=&#34;lazy&#34;
+  decoding=&#34;async&#34;
+  class=&#34;full-width&#34;
+/&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Yes, it’s old. Yes, some parts didn’t aged well. Still, the main findings from Mr. Brooks seems forgotten every now and then. As a software engineer, you don’t NEED to know everything about management. But knowing the basics of it, the “common sense” on this topic (which isn’t as common as what’s implied) is very valuable.&lt;/p&gt;
+&lt;p&gt;And while the book is well known for “the mythical man-month” discussion, there are a lot of other really insightful findings in there.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://cdn-images-1.medium.com/max/600/1*S_NolHqYFBN3ULogu77lzw.jpeg&#34;
+  alt=&#34;How to Win Friends &amp;amp;amp; Influence People cover&#34;
+  loading=&#34;lazy&#34;
+  decoding=&#34;async&#34;
+  class=&#34;full-width&#34;
+/&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Most software projects are done with others. You might have a hobby project that only you care about, but for most of the stuff you have to interact with others. As such, knowing how to interact with others in an appropriate way is a critical skill to master.&lt;/p&gt;
+&lt;p&gt;That might sound stereotypical, but for most software engineers social skills aren’t their main force. But like every skill, you can learn it, improve it, become good at it.&lt;/p&gt;
+&lt;p&gt;There are many books on this topic, some focusing on specific aspects of professional social interactions (networking, 1:1, delivering feedback, etc.). But I prefer a book that looks at this topic from a wider point of view, for the general public. Then you can apply what you learn, whatever the context is.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://cdn-images-1.medium.com/max/600/1*j3LRroc_VI6pVobVijkAMw.jpeg&#34;
+  alt=&#34;The Elements of Style cover&#34;
+  loading=&#34;lazy&#34;
+  decoding=&#34;async&#34;
+  class=&#34;full-width&#34;
+/&gt;
+
+&lt;/p&gt;
+&lt;p&gt;You’ll spend most of your time writing. Either writing code, writing documentation, writing emails, writing code reviews, writing design, writing architecture, etc. Better become good at it.&lt;/p&gt;
+&lt;p&gt;Also, a lot of good advice for writing well apply to other forms of communication as well. Pay attention to what you learn, and see if that’s applicable to other spheres too. That way, you get even more value out of the same book. I got some good management advice from that book, since some concepts are almost universal.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;And that’s it. Again, those are the books that everyone should read and learn from. But the most important thing to remember is :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Read from other domain than your own.&lt;/li&gt;
+&lt;li&gt;Pay attention to what you learn, and think about how where that could be applicable, where this could be useful as well.&lt;/li&gt;
+&lt;li&gt;Keep expanding into new directions, that’s a great way to bring new ideas into your own specific domain.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;That is the key to rising above the crowd.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Originally published on &lt;a href=&#34;https://medium.com/@laurent.parenteau/the-most-valuable-and-underrated-books-for-software-engineers-49ab9b459886&#34;&gt;Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/the-most-valuable-and-underrated-books-for-software-engineers/</guid>
+      <pubDate>Wed, 27 Mar 2019 19:06:29 -0500</pubDate>
+    </item>
+    
+  </channel>
+</rss>

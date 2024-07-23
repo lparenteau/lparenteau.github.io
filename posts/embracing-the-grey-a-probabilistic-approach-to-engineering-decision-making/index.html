@@ -1,263 +1,129 @@
-<!DOCTYPE html>
-<html lang="en-us">
-
+<!doctype html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
-<meta name="robots" content="all,follow">
-<meta name="googlebot" content="index,follow,snippet,archive">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<title>Embracing the Grey: A Probabilistic Approach to Engineering Decision-Making</title>
-<meta name="author" content="Laurent Parenteau" />
-
-
-
-
-<meta name="keywords" content="laurent parenteau, software, engineering, books, complexity, management, leadership, probabilities">
-
-
-<meta name="description" content="Discover how embracing the &amp;lsquo;Thinking in Bets&amp;rsquo; framework can revolutionize your approach to decision-making.">
-
-<meta name="generator" content="Hugo 0.92.2" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Liste - https://laurentparenteau.com/">
+    <title>Embracing the Grey: A Probabilistic Approach to Engineering Decision-Making | Laurent Parenteau</title>
+    <meta name="description" content="Discover how embracing the &#39;Thinking in Bets&#39; framework can revolutionize your approach to decision-making.">
+    <meta property="og:title" content="Embracing the Grey: A Probabilistic Approach to Engineering Decision-Making" />
+<meta property="og:description" content="Discover how embracing the &#39;Thinking in Bets&#39; framework can revolutionize your approach to decision-making." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://laurentparenteau.com/posts/embracing-the-grey-a-probabilistic-approach-to-engineering-decision-making/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-10-20T07:10:12-04:00" />
+<meta property="article:modified_time" content="2023-10-20T07:10:12-04:00" />
 
 
-<link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
-
-
-<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.11.2/css/all.css">
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-
-<link href="/css/animate.css" rel="stylesheet">
-
-
-<link href="/css/style.css" rel="stylesheet" id="theme-stylesheet">
-
-
-
-  <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-  <![endif]-->
-
-
-
-<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
-<link rel="apple-touch-icon" href="/img/apple-touch-icon.png" />
-
-
-<link href="/css/owl.carousel.css" rel="stylesheet">
-<link href="/css/owl.theme.css" rel="stylesheet">
-
-
-<link rel="alternate" href="https://laurentparenteau.com/index.xml" type="application/rss+xml" title="Laurent Parenteau">
-
-
-
-
-
-
-
-
-<meta property="og:locale" content="en_us">
-<meta property="og:site_name" content="Laurent Parenteau">
-<meta property="og:title" content="Embracing the Grey: A Probabilistic Approach to Engineering Decision-Making">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://laurentparenteau.com/posts/embracing-the-grey-a-probabilistic-approach-to-engineering-decision-making/" />
-<meta property="og:description" content="Discover how embracing the &amp;lsquo;Thinking in Bets&amp;rsquo; framework can revolutionize your approach to decision-making.">
-<meta property="og:image" content="https://laurentparenteau.com/img/posts/embracing-the-grey--a-probabilistic-approach-to-engineering-decision-making.png">
-<meta property="og:image:type" content="image/png">
-
-
-
-  <meta property="og:image:width" content="516">
-  <meta property="og:image:height" content="288">
-
-
-<meta property="og:updated_time" content="2023-10-20T07:10:12-0400">
-
-
-
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@laurent_parente">
-<meta name="twitter:title" content="Embracing the Grey: A Probabilistic Approach to Engineering …">
-
-<meta name="twitter:image" content="https://laurentparenteau.com/img/posts/embracing-the-grey--a-probabilistic-approach-to-engineering-decision-making.png">
-
-<meta name="twitter:description" content="Discover how embracing the &amp;lsquo;Thinking in Bets&amp;rsquo; framework can revolutionize your approach to decision-making.">
-
-
+    <meta itemprop="name" content="Embracing the Grey: A Probabilistic Approach to Engineering Decision-Making">
+<meta itemprop="description" content="Discover how embracing the &#39;Thinking in Bets&#39; framework can revolutionize your approach to decision-making."><meta itemprop="datePublished" content="2023-10-20T07:10:12-04:00" />
+<meta itemprop="dateModified" content="2023-10-20T07:10:12-04:00" />
+<meta itemprop="wordCount" content="496">
+<meta itemprop="keywords" content="books,complexity,management,leadership,probabilities," />
     
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4MGYM03192"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-4MGYM03192', { 'anonymize_ip': false });
+}
+</script>
+
+    <link rel="canonical" href="https://laurentparenteau.com/posts/embracing-the-grey-a-probabilistic-approach-to-engineering-decision-making/">
+    <link rel="icon" href="https://laurentparenteau.com//assets/favicon.ico">
+    <link rel="dns-prefetch" href="https://www.google-analytics.com">
+    <link href="https://www.google-analytics.com" rel="preconnect" crossorigin>
+    <link rel="alternate" type="application/atom+xml" title="Laurent Parenteau" href="https://laurentparenteau.com//atom.xml" />
+    <link rel="alternate" type="application/json" title="Laurent Parenteau" href="https://laurentparenteau.com//feed.json" />
+    <link rel="shortcut icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=">
+    
+    
+    <style>*,:after,:before{box-sizing:border-box;padding:0}body{font:1rem/1.5 '-apple-system',BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,ubuntu,roboto,noto,segoe ui,arial,sans-serif;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding:2rem;background:#f5f5f5;color:#000}.skip-link{position:absolute;top:-40px;left:0;background:#eee;z-index:100}.skip-link:focus{top:0}header{line-height:2;padding-bottom:1.5rem}.link{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-decoration:none}.time{font-variant-numeric:tabular-nums;white-space:nowrap}blockquote{border-left:5px solid #eee;padding-left:1rem;margin:0}a,a:visited{color:inherit}a:hover,a.heading-link{text-decoration:none}pre{padding:.5rem;overflow:auto;overflow-x:scroll;overflow-wrap:normal}code,pre{font-family:San Francisco Mono,Monaco,consolas,lucida console,dejavu sans mono,bitstream vera sans mono,monospace;font-size:normal;font-size:small;background:#eee}code{margin:.1rem;border:none}ul{list-style-type:square}ul,ol{padding-left:1.2rem}.list{line-height:2;list-style-type:none;padding-left:0}.list li{padding-bottom:.1rem}.meta{color:#777}.content{max-width:70ch;margin:0 auto}header{line-height:2;display:flex;justify-content:space-between;padding-bottom:1rem}header a{text-decoration:none}header ul{list-style-type:none;padding:0}header li,header a{display:inline}h2.post{padding-top:.5rem}header ul a:first-child{padding-left:1rem}.nav{height:1px;background:#000;content:'';max-width:10%}.list li{display:flex;align-items:baseline}.list li time{flex:initial}.hr-list{margin-top:0;margin-bottom:0;margin-right:.5rem;margin-left:.5rem;height:1px;border:0;border-bottom:1px dotted #ccc;flex:1 0 1rem}.m,hr{border:0;margin:3rem 0}img{max-width:100%;height:auto}.post-date{margin:5% 0}.index-date{color:#9a9a9a}.animate-blink{animation:opacity 1s infinite;opacity:1}@keyframes opacity{0%{opacity:1}50%{opacity:.5}100%{opacity:0}}.tags{display:flex;justify-content:space-between}.tags ul{padding:0;margin:0}.tags li{display:inline}.avatar{height:120px;width:120px;position:relative;margin:-10px 0 0 15px;float:right;border-radius:50%}table{width:100%;border-collapse:collapse}th,td{border:1px solid #ddd;text-align:left;padding:8px}th{background-color:#f2f2f2} </style>
+  
+    
+  
+  
+  <script type="application/ld+json">
+  {
+      "@context": "http://schema.org",
+      "@type": "BlogPosting",
+      "articleSection": "posts",
+      "name": "Embracing the Grey: A Probabilistic Approach to Engineering Decision-Making",
+      "headline": "Embracing the Grey: A Probabilistic Approach to Engineering Decision-Making",
+      "alternativeHeadline": "",
+      "description": "Discover how embracing the \u0027Thinking in Bets\u0027 framework can revolutionize your approach to decision-making.",
+      "inLanguage": "en-us",
+      "isFamilyFriendly": "true",
+      "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https:\/\/laurentparenteau.com\/posts\/embracing-the-grey-a-probabilistic-approach-to-engineering-decision-making\/"
+      },
+      "author" : {
+          "@type": "Person",
+          "name": ""
+      },
+      "creator" : {
+          "@type": "Person",
+          "name": ""
+      },
+      "accountablePerson" : {
+          "@type": "Person",
+          "name": ""
+      },
+      "copyrightHolder" : "Laurent Parenteau",
+      "copyrightYear" : "2023",
+      "dateCreated": "2023-10-20T07:10:12.00Z",
+      "datePublished": "2023-10-20T07:10:12.00Z",
+      "dateModified": "2023-10-20T07:10:12.00Z",
+      "publisher":{
+          "@type":"Organization",
+          "name": "Laurent Parenteau",
+          "url": "https://laurentparenteau.com/",
+          "logo": {
+              "@type": "ImageObject",
+              "url": "https:\/\/laurentparenteau.com\/assets\/favicon.ico",
+              "width":"32",
+              "height":"32"
+          }
+      },
+      "image": "https://laurentparenteau.com/assets/favicon.ico",
+      "url" : "https:\/\/laurentparenteau.com\/posts\/embracing-the-grey-a-probabilistic-approach-to-engineering-decision-making\/",
+      "wordCount" : "496",
+      "genre" : [ "books" , "complexity" , "management" , "leadership" , "probabilities" ],
+      "keywords" : [ "books" , "complexity" , "management" , "leadership" , "probabilities" ]
+  }
+  </script>
+  
+  
   </head>
 
-  <body>
-
-    <div id="all">
-
-        
-<header>
-  <div id="top">
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-5">
-          
-        </div>
-        <div class="col-xs-7">
-          <div class="social">
-            
-            <a href="mailto:laurent.parenteau@gmail.com" target="_blank" style="opacity: 1;"><i class='fas fa-2x fa-envelope'></i></a>
-            
-            <a href="http://linkedin.com/in/laurentparenteau" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-linkedin'></i></a>
-            
-            <a href="https://app.thestorygraph.com/stats/laurent_parenteau" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-readme'></i></a>
-            
-            <a href="http://twitter.com/laurent_parente" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-twitter'></i></a>
-            
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<body>
+  <a class="skip-link" href="#main">Skip to main</a>
+  <main id="main">
+  <div class="content">
+    <header>
+<p style="padding: 0;margin: 0;">
+  <a href="/">
+    <b>Laurent Parenteau</b>
+    <span class="text-stone-500 animate-blink">▮</span>
+  </a>
+</p>
+<ul style="padding: 0;margin: 0;">
+  
+  
+  <li class="">
+    <a href="/posts/"><span>Blog</span></a>
+    
+  </li>
+</ul>
 </header>
-
-
-
-        <header class="navbar-affixed-top" data-spy="affix" data-offset-top="62">
-    <div class="navbar navbar-default yamm " role="navigation" id="navbar">
-        <div class="container">
-            <div class="navbar-header">
-                <a class="navbar-brand home" href="/">
-                    
-                      <h4>Laurent Parenteau</h4>
-                    
-                    <span class="sr-only">Embracing the Grey: A Probabilistic Approach to Engineering Decision-Making - go to homepage</span>
-                </a>
-                <div class="navbar-buttons">
-                    <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
-                      <span class="sr-only">Toggle Navigation</span>
-                        <i class="fas fa-align-justify"></i>
-                    </button>
-                </div>
-            </div>
-            
-
-            <div class="navbar-collapse collapse" id="navigation">
-                <ul class="nav navbar-nav navbar-right">
-                  
-
-                  
-                  
-                  
-
-                  
-
-                  
-
-                  
-
-                  
-                  <li class="dropdown ">
-                    <a href="/">Home</a>
-                  </li>
-                  
-                  
-                  
-                  
-
-                  
-
-                  
-                    
-                  
-
-                  
-
-                  
-                  <li class="dropdown active">
-                    <a href="/posts/">Blog</a>
-                  </li>
-                  
-                  
-                </ul>
-            </div>
-            
-
-            <div class="collapse clearfix" id="search">
-                <form class="navbar-form" role="search">
-                    <div class="input-group">
-                        <input type="text" class="form-control" placeholder="Search">
-                        <span class="input-group-btn">
-                    <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
-                </span>
-                    </div>
-                </form>
-            </div>
-            
-        </div>
-    </div>
-</header>
-
-
-
-
-        <div id="heading-breadcrumbs">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <h1>Embracing the Grey: A Probabilistic Approach to Engineering Decision-Making</h1>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-        <div id="content">
-            <div class="container">
-
-                <div class="row">
-
-                    
-
-                    <div class="col-md-9" id="blog-post">
-
-                        
-                          <p class="text-muted text-uppercase mb-small text-right">
-                            
-                            
-                            
-                              
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                                  
-                              
-                              October 20, 2023
-                            
-                          </p>
-                        
-
-                        <div id="post-content">
-                          <p>I&rsquo;ve seen my fair share of successes and failures in the world of technology. Throughout the years, I&rsquo;ve come across various approaches to decision-making and problem-solving, each with its own set of principles and methodologies. However, one idea that recently struck a chord with me is the concept of &ldquo;thinking in bets&rdquo; as outlined by <a href="https://en.wikipedia.org/wiki/Annie_Duke">Annie Duke</a> in her <a href="https://www.penguinrandomhouse.ca/books/552885/thinking-in-bets-by-annie-duke/9780735216372">book</a> of the same name.</p>
+<hr class="hr-list" style="padding: 0;margin: 0;">
+    <section>
+      <h2 class="post">Embracing the Grey: A Probabilistic Approach to Engineering Decision-Making</h2>
+      <p>I&rsquo;ve seen my fair share of successes and failures in the world of technology. Throughout the years, I&rsquo;ve come across various approaches to decision-making and problem-solving, each with its own set of principles and methodologies. However, one idea that recently struck a chord with me is the concept of &ldquo;thinking in bets&rdquo; as outlined by <a href="https://en.wikipedia.org/wiki/Annie_Duke">Annie Duke</a> in her <a href="https://www.penguinrandomhouse.ca/books/552885/thinking-in-bets-by-annie-duke/9780735216372">book</a> of the same name.</p>
 <p>I&rsquo;d like to explore how this concept can revolutionize the way we make decisions in the field of software engineering and challenge the conventional wisdom that often prevails.</p>
 <p><strong>The Probabilistic Perspective</strong></p>
 <p>Annie Duke&rsquo;s core idea is simple yet profound: in life, as in engineering, every result is a combination of skill and luck. This perspective forces us to consider that there are elements of our decisions that we can control and elements that we cannot. This realization fundamentally shifts our approach to decision-making by introducing a probabilistic lens through which we view our choices.</p>
@@ -273,230 +139,18 @@
 <hr>
 <p>The world of software engineering is a dynamic and uncertain landscape. We have to embrace uncertainty, recognize the interplay of skill and luck, and approach decision-making with a probabilistic mindset. By doing so, we can make better-informed decisions, cultivate a culture of learning and adaptation, and ultimately improve our chances of success in an ever-evolving field.</p>
 
-                        </div>
-                        
-                        
-
-                    </div>
-                    
-
-                    
-
-                    
-
-                    <div class="col-md-3">
-
-                        
-
-                        
-
-<div class="panel panel-default sidebar-menu">
-
-    <div class="panel-heading">
-      <h3 class="panel-title">Search</h3>
-    </div>
-
-    <div class="panel-body">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" role="search">
-            <div class="input-group">
-                <input type="search" name="q" class="form-control" placeholder="Search">
-                <input type="hidden" name="sitesearch" value="https://laurentparenteau.com/">
-                <span class="input-group-btn">
-                    <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
-                </span>
-            </div>
-        </form>
-    </div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="panel sidebar-menu">
-
-    <div class="panel-heading">
-        <h3 class="panel-title">Tags</h3>
-    </div>
-
-    <div class="panel-body">
-        <ul class="tag-cloud">
-            
-            
-            <li >
-                <a href="/tags/agile"><i class="fas fa-tags"></i> agile</a>
-            </li>
-            
-            <li >
-                <a href="/tags/books"><i class="fas fa-tags"></i> books</a>
-            </li>
-            
-            <li >
-                <a href="/tags/communication"><i class="fas fa-tags"></i> communication</a>
-            </li>
-            
-            <li >
-                <a href="/tags/complexity"><i class="fas fa-tags"></i> complexity</a>
-            </li>
-            
-            <li >
-                <a href="/tags/culture"><i class="fas fa-tags"></i> culture</a>
-            </li>
-            
-            <li >
-                <a href="/tags/fable"><i class="fas fa-tags"></i> fable</a>
-            </li>
-            
-            <li >
-                <a href="/tags/interview"><i class="fas fa-tags"></i> interview</a>
-            </li>
-            
-            <li >
-                <a href="/tags/leadership"><i class="fas fa-tags"></i> leadership</a>
-            </li>
-            
-            <li >
-                <a href="/tags/lesson"><i class="fas fa-tags"></i> lesson</a>
-            </li>
-            
-            <li >
-                <a href="/tags/management"><i class="fas fa-tags"></i> management</a>
-            </li>
-            
-            <li >
-                <a href="/tags/medium"><i class="fas fa-tags"></i> medium</a>
-            </li>
-            
-            <li >
-                <a href="/tags/plato"><i class="fas fa-tags"></i> plato</a>
-            </li>
-            
-            <li >
-                <a href="/tags/probabilities"><i class="fas fa-tags"></i> probabilities</a>
-            </li>
-            
-            <li >
-                <a href="/tags/remote"><i class="fas fa-tags"></i> remote</a>
-            </li>
-            
-            <li >
-                <a href="/tags/startup"><i class="fas fa-tags"></i> startup</a>
-            </li>
-            
-            <li >
-                <a href="/tags/strategy"><i class="fas fa-tags"></i> strategy</a>
-            </li>
-            
-            <li >
-                <a href="/tags/team"><i class="fas fa-tags"></i> team</a>
-            </li>
-            
-            <li >
-                <a href="/tags/tools"><i class="fas fa-tags"></i> tools</a>
-            </li>
-            
-        </ul>
-    </div>
-
-</div>
-
-
-
-
-
-
-                        
-
-                    </div>
-                    
-
-                    
-
-                </div>
-                
-
-            </div>
-            
-        </div>
-        
-
-        <footer id="footer">
-    <div class="container">
-
-        
-
-        <div class="col-md-4 col-sm-6">
-
-            
-
-        </div>
-        
-
-        
-
-    </div>
+      
+      <div class="post-date">
+        <span class="g time">October 20, 2023 </span> &#8729;
+         
+         <a href="https://laurentparenteau.com/tags/books/">books</a> <a href="https://laurentparenteau.com/tags/complexity/">complexity</a> <a href="https://laurentparenteau.com/tags/management/">management</a> <a href="https://laurentparenteau.com/tags/leadership/">leadership</a> <a href="https://laurentparenteau.com/tags/probabilities/">probabilities</a>
+      </div>
+      
+    </section>
     
-</footer>
-
-
-
-
-
-
-
-<div id="copyright">
-    <div class="container">
-        <div class="col-md-12">
-            
-            <p class="pull-left">Copyright (c) 2024, Laurent Parenteau</p>
-            
-        </div>
-    </div>
-</div>
-
-
-
-
-
-    </div>
     
-
     
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4MGYM03192"></script>
-<script>
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	gtag('config', 'G-4MGYM03192', { 'anonymize_ip': false });
-}
-</script>
-
-<script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
-
-
-<script src="/js/front.js"></script>
-
-
-<script src="/js/owl.carousel.min.js"></script>
-
-
-
-  </body>
+  </div>
+</main>
+</body>
 </html>
