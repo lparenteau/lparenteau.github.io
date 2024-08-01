@@ -3,29 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://laurentparenteau.com/</loc>
-    <lastmod>2024-07-23T15:38:52-04:00</lastmod>
+    <lastmod>2024-08-01T10:49:02-04:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://laurentparenteau.com/tags/agile/</loc>
+    <lastmod>2024-08-01T10:49:02-04:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/tags/complexity/</loc>
+    <lastmod>2024-08-01T10:49:02-04:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/posts/</loc>
+    <lastmod>2024-08-01T10:49:02-04:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/posts/simplification-the-key-to-scaling-engineering-in-fast-growing-startups/</loc>
+    <lastmod>2024-08-01T10:49:02-04:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/tags/startup/</loc>
+    <lastmod>2024-08-01T10:49:02-04:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/tags/strategy/</loc>
+    <lastmod>2024-08-01T10:49:02-04:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/tags/</loc>
+    <lastmod>2024-08-01T10:49:02-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/tags/leadership/</loc>
     <lastmod>2024-07-23T15:38:52-04:00</lastmod>
   </url><url>
-    <loc>https://laurentparenteau.com/posts/</loc>
-    <lastmod>2024-07-23T15:38:52-04:00</lastmod>
-  </url><url>
-    <loc>https://laurentparenteau.com/tags/startup/</loc>
-    <lastmod>2024-07-23T15:38:52-04:00</lastmod>
-  </url><url>
-    <loc>https://laurentparenteau.com/tags/strategy/</loc>
-    <lastmod>2024-07-23T15:38:52-04:00</lastmod>
-  </url><url>
-    <loc>https://laurentparenteau.com/tags/</loc>
-    <lastmod>2024-07-23T15:38:52-04:00</lastmod>
-  </url><url>
     <loc>https://laurentparenteau.com/posts/the-crucial-role-of-strategy-for-engineering-leaders/</loc>
     <lastmod>2024-07-23T15:38:52-04:00</lastmod>
-  </url><url>
-    <loc>https://laurentparenteau.com/tags/complexity/</loc>
-    <lastmod>2024-07-04T11:37:11-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/posts/exponential-growth-myth-reality-and-strategic-considerations/</loc>
     <lastmod>2024-07-04T11:37:11-04:00</lastmod>
@@ -104,9 +110,6 @@
   </url><url>
     <loc>https://laurentparenteau.com/posts/leadership-lessons-from-parenting/</loc>
     <lastmod>2019-05-10T19:06:29-04:00</lastmod>
-  </url><url>
-    <loc>https://laurentparenteau.com/tags/agile/</loc>
-    <lastmod>2019-04-17T19:06:29-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/posts/finding-the-best-standup-setup-for-your-team/</loc>
     <lastmod>2019-04-17T19:06:29-04:00</lastmod>

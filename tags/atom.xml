@@ -6,20 +6,29 @@
     <description>Recent content in Tags on Laurent Parenteau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jul 2024 15:38:52 -0400</lastBuildDate><atom:link href="https://laurentparenteau.com/tags/atom.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Aug 2024 10:49:02 -0400</lastBuildDate><atom:link href="https://laurentparenteau.com/tags/atom.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>leadership</title>
-      <link>https://laurentparenteau.com/tags/leadership/</link>
-      <pubDate>Tue, 23 Jul 2024 15:38:52 -0400</pubDate>
+      <title>agile</title>
+      <link>https://laurentparenteau.com/tags/agile/</link>
+      <pubDate>Thu, 01 Aug 2024 10:49:02 -0400</pubDate>
       
-      <guid>https://laurentparenteau.com/tags/leadership/</guid>
+      <guid>https://laurentparenteau.com/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complexity</title>
+      <link>https://laurentparenteau.com/tags/complexity/</link>
+      <pubDate>Thu, 01 Aug 2024 10:49:02 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/tags/complexity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>startup</title>
       <link>https://laurentparenteau.com/tags/startup/</link>
-      <pubDate>Tue, 23 Jul 2024 15:38:52 -0400</pubDate>
+      <pubDate>Thu, 01 Aug 2024 10:49:02 -0400</pubDate>
       
       <guid>https://laurentparenteau.com/tags/startup/</guid>
       <description></description>
@@ -28,18 +37,18 @@
     <item>
       <title>strategy</title>
       <link>https://laurentparenteau.com/tags/strategy/</link>
-      <pubDate>Tue, 23 Jul 2024 15:38:52 -0400</pubDate>
+      <pubDate>Thu, 01 Aug 2024 10:49:02 -0400</pubDate>
       
       <guid>https://laurentparenteau.com/tags/strategy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>complexity</title>
-      <link>https://laurentparenteau.com/tags/complexity/</link>
-      <pubDate>Thu, 04 Jul 2024 11:37:11 -0400</pubDate>
+      <title>leadership</title>
+      <link>https://laurentparenteau.com/tags/leadership/</link>
+      <pubDate>Tue, 23 Jul 2024 15:38:52 -0400</pubDate>
       
-      <guid>https://laurentparenteau.com/tags/complexity/</guid>
+      <guid>https://laurentparenteau.com/tags/leadership/</guid>
       <description></description>
     </item>
     
@@ -157,15 +166,6 @@
       <pubDate>Fri, 05 Jul 2019 19:06:29 -0400</pubDate>
       
       <guid>https://laurentparenteau.com/tags/interview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>agile</title>
-      <link>https://laurentparenteau.com/tags/agile/</link>
-      <pubDate>Wed, 17 Apr 2019 19:06:29 -0400</pubDate>
-      
-      <guid>https://laurentparenteau.com/tags/agile/</guid>
       <description></description>
     </item>
     
