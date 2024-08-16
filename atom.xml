@@ -7,11 +7,200 @@
     
     <language>en</language>
     <copyright>Copyright 2024, Calvin Tran</copyright>
-    <lastBuildDate>Thu, 01 Aug 2024 10:49:02 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 14:40:19 -0400</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
     <atom:link href="https://laurentparenteau.com//atom.xml" rel="self" type="application/atom+xml"/>
     
+    
+    <item>
+      <title>The Startup Prioritization Playbook: A Simple Framework for Maximum Impact</title>
+      <link>https://laurentparenteau.com/posts/the-startup-prioritization-playbook-a-simple-framework-for-maximum-impact/</link>
+      <description>&lt;p&gt;Time flies, competition moves, and money runs out. This environment is the harsh reality that every startup confronts. With countless tasks to accomplish and limited resources, startups are perpetually in a race against time. The question is not whether you can do everything—you can&amp;rsquo;t—but how do you decide what to do first?&lt;/p&gt;
+&lt;p&gt;The art of prioritization is crucial for startup success, yet it must be more widely recognized and done appropriately. Many founders fell into the trap of trying to do everything at once or following their gut instincts, leading to wasted efforts and missed opportunities.&lt;/p&gt;
+&lt;p&gt;But here&amp;rsquo;s the good news: prioritizing doesn&amp;rsquo;t have to be complicated. It&amp;rsquo;s easier than most people think. Let me introduce you to a simple, practical framework to help you align your efforts with your goals and maximize your limited resources.&lt;/p&gt;
+&lt;h2 id=&#34;the-simple-prioritization-framework&#34;&gt;The Simple Prioritization Framework&lt;/h2&gt;
+&lt;h3 id=&#34;define-your-goals&#34;&gt;Define Your Goals&lt;/h3&gt;
+&lt;p&gt;Before prioritizing anything, you need to know what you&amp;rsquo;re aiming for. What are your objectives? Are you trying to acquire more users, increase revenue, improve product features, or something else? If you still need to clearly define your goals, stop everything else and do this first. Without clear objectives, any attempt at prioritization is just guesswork.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; Let&amp;rsquo;s say you&amp;rsquo;re running a SaaS startup, and your goals are&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Increase Monthly Recurring Revenue (MRR) by 20% in the next quarter&lt;/li&gt;
+&lt;li&gt;Reduce customer churn rate from 5% to 3%&lt;/li&gt;
+&lt;li&gt;Launch a mobile app version of your product&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;list-and-rate-work-items&#34;&gt;List and Rate Work Items&lt;/h3&gt;
+&lt;p&gt;Now, create a single-column list of all your work items. It could include developing new features, running marketing campaigns, making hiring decisions, etc. Rate each item based on how much it contributes to your goals. You can use a simple scale like 1-5, where one means it barely contributes and 5 means it significantly contributes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Work Item&lt;/th&gt;
+&lt;th&gt;MRR Goal&lt;/th&gt;
+&lt;th&gt;Churn Goal&lt;/th&gt;
+&lt;th&gt;Mobile App Goal&lt;/th&gt;
+&lt;th&gt;Total Score&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Implement a new pricing tier&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Develop customer onboarding&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Build mobile app MVP&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Launch email re-engagement campaign&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hire additional developer&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;sort-and-refine&#34;&gt;Sort and Refine&lt;/h3&gt;
+&lt;p&gt;Sort your list based on the total scores. For items with the same score, manually rank them based on your judgment. Remember, no two items can have the same final rank.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; Based on the scoring and manually ranking items of the same score, we get&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Build mobile app MVP (10)&lt;/li&gt;
+&lt;li&gt;Develop customer onboarding (9)&lt;/li&gt;
+&lt;li&gt;Launch email re-engagement campaign (9)&lt;/li&gt;
+&lt;li&gt;Hire additional developer (9)&lt;/li&gt;
+&lt;li&gt;Implement a new pricing tier (8)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;check-for-dependencies&#34;&gt;Check for Dependencies&lt;/h3&gt;
+&lt;p&gt;Review your sorted list and look for dependencies. If a higher-ranked depends on a lower-ranged item, move it up accordingly.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;
+You realize that you must hire an additional developer to build the mobile app MVP effectively. Your refined list might look like this:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Hire additional developer&lt;/li&gt;
+&lt;li&gt;Build mobile app MVP&lt;/li&gt;
+&lt;li&gt;Develop customer onboarding&lt;/li&gt;
+&lt;li&gt;Launch email re-engagement campaign&lt;/li&gt;
+&lt;li&gt;Implement a new pricing tier&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;That&amp;rsquo;s it! This prioritized list is your roadmap. Focus on completing the first item before moving to the next.&lt;/p&gt;
+&lt;h2 id=&#34;putting-the-framework-into-action&#34;&gt;Putting the Framework into Action&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s walk through a real-world scenario to see how someone can use this framework.&lt;/p&gt;
+&lt;p&gt;Imagine you&amp;rsquo;re running a fitness app startup. Your app provides personalized workout plans, but user retention has been challenging. After some market research, you&amp;rsquo;ve identified several potential improvements and initiatives. Here&amp;rsquo;s how you might apply the prioritization framework:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Define Your Goals&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Increase user retention rate from 20% to 40% in 3 months&lt;/li&gt;
+&lt;li&gt;Boost daily active users by 50% in the next quarter&lt;/li&gt;
+&lt;li&gt;Achieve a Net Promoter Score (NPS) of 50 within six months&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;List and Rate Work Items&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Work Item&lt;/th&gt;
+&lt;th&gt;Retention&lt;/th&gt;
+&lt;th&gt;Active Users&lt;/th&gt;
+&lt;th&gt;NPS&lt;/th&gt;
+&lt;th&gt;Total&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Add social features&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Improve UI/UX&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Integrate with wearables&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Launch referral program&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Develop video tutorials&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Implement push notifications&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Sort and Refine&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Add social features (12)&lt;/li&gt;
+&lt;li&gt;Integrate with wearables (12)&lt;/li&gt;
+&lt;li&gt;Improve UI/UX (12)&lt;/li&gt;
+&lt;li&gt;Implement push notifications (11)&lt;/li&gt;
+&lt;li&gt;Develop video tutorials (11)&lt;/li&gt;
+&lt;li&gt;Launch referral program (10)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Check for Dependencies&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You realize that improving the UI/UX should come before adding social features or integrating with wearables, as it will enhance the impact of these features. The final prioritized list looks like this:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Improve UI/UX&lt;/li&gt;
+&lt;li&gt;Add social features&lt;/li&gt;
+&lt;li&gt;Integrate with wearables&lt;/li&gt;
+&lt;li&gt;Implement push notifications&lt;/li&gt;
+&lt;li&gt;Develop video tutorials&lt;/li&gt;
+&lt;li&gt;Launch referral program&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This prioritized list now gives you a clear roadmap of what to tackle first to achieve your goals most effectively.&lt;/p&gt;
+&lt;h2 id=&#34;the-power-of-simplicity&#34;&gt;The Power of Simplicity&lt;/h2&gt;
+&lt;p&gt;It is tempting to add more complexity to this system—perhaps by assigning different weights to goals or using a more intricate scoring system. While these can be valid sometimes, remember that complexity doesn&amp;rsquo;t necessarily lead to better results. The power of this framework lies in its simplicity and adaptability.&lt;/p&gt;
+&lt;h2 id=&#34;staying-on-track&#34;&gt;Staying on Track&lt;/h2&gt;
+&lt;p&gt;As you work through your prioritized list, you might want to start on a lower-ranked item. When this happens, it signals you to revisit your goals and rating system. Are you trying to accomplish an unstated goal? If so, add it to your list of objectives and redo the exercise. Does your weighting system need adjustment? Make the changes and reprioritize. As long as you are focussing 100% on the work item that will create the most value, you&amp;rsquo;re working on the right thing.&lt;/p&gt;
+&lt;p&gt;The key is to maintain a single column of prioritized work items, each with a unique priority. Anything else will slow down your progress toward your goals, delay value delivery, and postpone the validation of your hypotheses.&lt;/p&gt;
+&lt;p&gt;Remember, if you don&amp;rsquo;t explicitly decide on this prioritized list of work items, you leave your startup&amp;rsquo;s success up to chance. In the fast-paced, high-stakes world of startups, that&amp;rsquo;s a risk you can&amp;rsquo;t afford to take.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Prioritization is not just about doing the right things—it&amp;rsquo;s about doing the right things to quickly bring in the most value. Using this simple framework, you can ensure that every hour of work and every dollar spent efficiently moves you closer to your goals.&lt;/p&gt;
+&lt;p&gt;Ultimately, successful prioritization comes down to clarity of goals, honest assessment of tasks, and the discipline to stick to your priorities. Master this, and you&amp;rsquo;ll be well-equipped to navigate the challenges of the startup world, making the most of your limited time and resources.&lt;/p&gt;
+&lt;p&gt;Remember, in the world of startups, it&amp;rsquo;s not the biggest or the strongest that survive—it&amp;rsquo;s those who can adapt and prioritize effectively. So, what&amp;rsquo;s at the top of your priority list?&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/the-startup-prioritization-playbook-a-simple-framework-for-maximum-impact/</guid>
+      <pubDate>Fri, 16 Aug 2024 14:40:19 -0400</pubDate>
+    </item>
     
     <item>
       <title>Simplification: The Key to Scaling Engineering in Fast-Growing Startups</title>

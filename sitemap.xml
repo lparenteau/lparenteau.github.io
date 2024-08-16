@@ -3,28 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://laurentparenteau.com/</loc>
-    <lastmod>2024-08-01T10:49:02-04:00</lastmod>
+    <lastmod>2024-08-16T14:40:19-04:00</lastmod>
     <priority>0</priority>
   </url><url>
     <loc>https://laurentparenteau.com/tags/agile/</loc>
-    <lastmod>2024-08-01T10:49:02-04:00</lastmod>
+    <lastmod>2024-08-16T14:40:19-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/tags/complexity/</loc>
-    <lastmod>2024-08-01T10:49:02-04:00</lastmod>
+    <lastmod>2024-08-16T14:40:19-04:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/tags/management/</loc>
+    <lastmod>2024-08-16T14:40:19-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/posts/</loc>
-    <lastmod>2024-08-01T10:49:02-04:00</lastmod>
-  </url><url>
-    <loc>https://laurentparenteau.com/posts/simplification-the-key-to-scaling-engineering-in-fast-growing-startups/</loc>
-    <lastmod>2024-08-01T10:49:02-04:00</lastmod>
+    <lastmod>2024-08-16T14:40:19-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/tags/startup/</loc>
-    <lastmod>2024-08-01T10:49:02-04:00</lastmod>
+    <lastmod>2024-08-16T14:40:19-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/tags/strategy/</loc>
-    <lastmod>2024-08-01T10:49:02-04:00</lastmod>
+    <lastmod>2024-08-16T14:40:19-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/tags/</loc>
+    <lastmod>2024-08-16T14:40:19-04:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/posts/the-startup-prioritization-playbook-a-simple-framework-for-maximum-impact/</loc>
+    <lastmod>2024-08-16T14:40:19-04:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/tags/tools/</loc>
+    <lastmod>2024-08-16T14:40:19-04:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/posts/simplification-the-key-to-scaling-engineering-in-fast-growing-startups/</loc>
     <lastmod>2024-08-01T10:49:02-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/tags/leadership/</loc>
@@ -54,9 +63,6 @@
     <loc>https://laurentparenteau.com/posts/decoding-success-and-failure-a-rational-approach/</loc>
     <lastmod>2023-11-01T07:08:39-04:00</lastmod>
   </url><url>
-    <loc>https://laurentparenteau.com/tags/management/</loc>
-    <lastmod>2023-11-01T07:08:39-04:00</lastmod>
-  </url><url>
     <loc>https://laurentparenteau.com/posts/embracing-the-grey-a-probabilistic-approach-to-engineering-decision-making/</loc>
     <lastmod>2023-10-20T07:10:12-04:00</lastmod>
   </url><url>
@@ -73,9 +79,6 @@
     <lastmod>2021-03-18T20:34:31-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/tags/team/</loc>
-    <lastmod>2021-03-18T20:34:31-04:00</lastmod>
-  </url><url>
-    <loc>https://laurentparenteau.com/tags/tools/</loc>
     <lastmod>2021-03-18T20:34:31-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/posts/building-a-cohesive-distributed-team/</loc>
