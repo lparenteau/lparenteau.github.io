@@ -134,5 +134,8 @@
   </url><url>
     <loc>https://laurentparenteau.com/pro-bono/</loc>
     <priority>0</priority>
+  </url><url>
+    <loc>https://laurentparenteau.com/projects/</loc>
+    <priority>0</priority>
   </url>
 </urlset>
