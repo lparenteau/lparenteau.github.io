@@ -6,7 +6,17 @@
     <description>Recent content in startup on LAURENT PARENTEAU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Sep 2024 16:16:15 -0400</lastBuildDate><atom:link href="https://laurentparenteau.com/tags/startup/atom.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Oct 2024 13:48:09 -0400</lastBuildDate><atom:link href="https://laurentparenteau.com/tags/startup/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Escaping the Valley of Death: Gradient Descent Strategies for Startup Survival</title>
+      <link>https://laurentparenteau.com/posts/escaping-the-valley-of-death-gradient-descent-strategies-for-startup-survival/</link>
+      <pubDate>Wed, 16 Oct 2024 13:48:09 -0400</pubDate>
+      
+      <guid>https://laurentparenteau.com/posts/escaping-the-valley-of-death-gradient-descent-strategies-for-startup-survival/</guid>
+      <description>In machine learning (core to neural network, AI, and LLM), gradient descent is a robust optimization algorithm used to find the minimum of a function. It works by iteratively stepping toward the steepest descent, gradually honing in on the optimal solution.
+In the startup world, founders embark on a journey to find product/market fit (PMF)—that magical inflection point where their product perfectly satisfies a strong market demand. This process often involves continuous iteration, pivoting when necessary, and refining their offering based on market feedback.</description>
+    </item>
+    
     <item>
       <title>The Ultimate Guide to Product-Market Fit</title>
       <link>https://laurentparenteau.com/posts/the-ultimate-guide-to-product-market-fit/</link>
