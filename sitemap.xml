@@ -140,5 +140,8 @@
   </url><url>
     <loc>https://laurentparenteau.com/projects/</loc>
     <priority>0</priority>
+  </url><url>
+    <loc>https://laurentparenteau.com/workshops/</loc>
+    <priority>0</priority>
   </url>
 </urlset>
