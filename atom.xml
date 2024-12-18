@@ -7,11 +7,72 @@
     
     <language>en</language>
     <copyright>Copyright 2024, Calvin Tran</copyright>
-    <lastBuildDate>Wed, 16 Oct 2024 13:48:09 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 14:09:15 -0500</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
     <atom:link href="https://laurentparenteau.com//atom.xml" rel="self" type="application/atom+xml"/>
     
+    
+    <item>
+      <title>Top 5 Engineering Leadership Books in 2024</title>
+      <link>https://laurentparenteau.com/posts/top-5-engineering-leadership-books-in-2024/</link>
+      <description>&lt;p&gt;An essential part of engineering leadership is continuous education. You can&amp;rsquo;t stop learning. Tech and markets are moving fast, and to navigate these changes and ensure your engineering organization is performing at its best, you must continuously improve.&lt;/p&gt;
+&lt;p&gt;A part of my continuous self-education is reading books—many books. Most were good, some were disappointing, and a few were outstanding.&lt;/p&gt;
+&lt;p&gt;From what I&amp;rsquo;ve read this year, here are my top 5 books I&amp;rsquo;d recommend to all engineering leaders and why.&lt;/p&gt;
+&lt;h1 id=&#34;an-elegant-puzzle-systems-of-engineering-management&#34;&gt;An Elegant Puzzle: Systems of Engineering Management&lt;/h1&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://laurentparenteau.com/assets/elegant_puzzle.jpeg&#34;
+  alt=&#34;An Elegant Puzzle cover&#34;
+  loading=&#34;lazy&#34;
+  decoding=&#34;async&#34;
+  class=&#34;full-width&#34;
+/&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Written by &lt;a href=&#34;https://lethain.com/&#34;&gt;Will Larson&lt;/a&gt;, it&amp;rsquo;s a collection of topics (or challenges) related to engineering management. You can read it front to back or pick the part on your challenge. Compared to other management books, it&amp;rsquo;s more hands-on, with practical things you can try. Still, it isn&amp;rsquo;t dogmatic, and Will always shares why he decided to solve a challenge that way.&lt;/p&gt;
+&lt;p&gt;One thing to remember is the underlying assumption (for the whole book) that you are in a company growing fast and hiring a lot. This assumption makes sense if you consider the author&amp;rsquo;s experience at fast-growing startups like &lt;a href=&#34;https://en.wikipedia.org/wiki/Digg&#34;&gt;Digg&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Stripe,_Inc.&#34;&gt;Stripe&lt;/a&gt;, which he often refers to. It is always good to consider the context of the experience people share. It doesn&amp;rsquo;t mean this is terrible advice for a smaller startup or today&amp;rsquo;s environment. But remember to think for yourself and reason about the recommendations before mindlessly doing anything (which he mentions you should do, anyway).&lt;/p&gt;
+&lt;h1 id=&#34;the-essential-wooden-a-lifetime-of-lessons-on-leaders-and-leadership&#34;&gt;The Essential Wooden: A Lifetime of Lessons on Leaders and Leadership&lt;/h1&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://laurentparenteau.com/assets/essential_wooden.jpeg&#34;
+  alt=&#34;The Essential Wooden cover&#34;
+  loading=&#34;lazy&#34;
+  decoding=&#34;async&#34;
+  class=&#34;full-width&#34;
+/&gt;
+
+&lt;/p&gt;
+&lt;p&gt;This one covers the lessons from &lt;a href=&#34;https://en.wikipedia.org/wiki/John_Wooden&#34;&gt;John Wooden&lt;/a&gt; (a famous basketball coach). The foundations of coaching and leading people are domain agnostic, so lessons from great coaches are suitable in whatever domain you work in. Obviously, the way you adapt and apply the lessons will be different depending on your work environment. As such, this isn&amp;rsquo;t hands-on, but it provides a solid foundation to build your practice.&lt;/p&gt;
+&lt;p&gt;Over the years, he came up with his system, called the &amp;ldquo;Pyramid of Success,&amp;rdquo; with his goal being competitive greatness. There are many lessons in there that you see reflected in other coaches&#39; leadership approaches (like &lt;a href=&#34;https://en.wikipedia.org/wiki/Bill_Walsh_(American_football_coach)&#34;&gt;Bill Walsh&lt;/a&gt;&amp;rsquo;s &amp;ldquo;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Score_Takes_Care_of_Itself&#34;&gt;The Score Take Care of Itself&lt;/a&gt;,&amp;rdquo; another great book). This shouldn&amp;rsquo;t come as a surprise, and I believe it is a sign that these are fundamental principles (it would explain why different people discover the same thing leads to success).&lt;/p&gt;
+&lt;p&gt;So, if you want a book that outlines a great approach to becoming a successful leader, it&amp;rsquo;s a great one to pick.&lt;/p&gt;
+&lt;h1 id=&#34;design-is-storytelling&#34;&gt;Design Is Storytelling&lt;/h1&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://laurentparenteau.com/assets/design_is_storytelling.jpeg&#34;
+  alt=&#34;Design Is Storytelling cover&#34;
+  loading=&#34;lazy&#34;
+  decoding=&#34;async&#34;
+  class=&#34;full-width&#34;
+/&gt;
+
+&lt;/p&gt;
+&lt;p&gt;You don&amp;rsquo;t often see design books in engineering leadership book lists, but it&amp;rsquo;s a mistake. More engineering leaders should read and be familiar with the design world. While some may say that &amp;ldquo;we have a designer that takes care of that,&amp;rdquo; (which is a bad reason, but let&amp;rsquo;s not argue here), they forget that there are stuff engineers build that has no designer (outside of engineering). Documentation, API, architecture, and system design are all things squarely owned by engineering, and where using design thinking has a lot to offer.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ellenlupton.com/&#34;&gt;Ellen Lupton&lt;/a&gt; focuses on the fact that good design supports a great narrative (or vice versa: starting with the narrative you want leads to better design). If you want people to take certain actions, providing the proper narrative can nudge them in the right direction. Understanding the user&amp;rsquo;s needs through a narrative also helps better understand the needs, which leads to better ways to solve them.&lt;/p&gt;
+&lt;h1 id=&#34;what-is-chatgpt-doing-and-why-does-it-work&#34;&gt;What Is ChatGPT Doing&amp;hellip; and Why Does It Work?&lt;/h1&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://laurentparenteau.com/assets/what_is_chatgpt.jpeg&#34;
+  alt=&#34;What Is ChatGPT cover&#34;
+  loading=&#34;lazy&#34;
+  decoding=&#34;async&#34;
+  class=&#34;full-width&#34;
+/&gt;
+
+&lt;/p&gt;
+&lt;p&gt;I am now going to a more technical topic: AI. Everything is about AI these days. The improvement around &lt;a href=&#34;https://en.wikipedia.org/wiki/Large_language_model&#34;&gt;LLM&lt;/a&gt; (large language model) greatly boosted that topic. Understanding how they work is essential to understanding what they could be used for, where they aren&amp;rsquo;t a good idea, what security risks they pose, and all the other questions one should ask when looking at new technologies.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve found &lt;a href=&#34;https://en.wikipedia.org/wiki/Stephen_Wolfram&#34;&gt;Stephen Wolfram&lt;/a&gt;&amp;rsquo;s book easy to understand, and it explains the basis of how LLMs work. Also, you can be sure of the technical accuracy coming from him. Since it&amp;rsquo;s &lt;a href=&#34;https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/&#34;&gt;available for free online&lt;/a&gt;, there&amp;rsquo;s no reason not to read it. It will provide you with the knowledge required to discuss this technology and see where it could be helpful for whatever you&amp;rsquo;re building.&lt;/p&gt;
+</description>
+      <author>Laurent Parenteau</author>
+      <guid>https://laurentparenteau.com/posts/top-5-engineering-leadership-books-in-2024/</guid>
+      <pubDate>Wed, 18 Dec 2024 14:09:15 -0500</pubDate>
+    </item>
     
     <item>
       <title>Escaping the Valley of Death: Gradient Descent Strategies for Startup Survival</title>
