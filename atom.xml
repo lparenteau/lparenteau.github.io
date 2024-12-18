@@ -68,6 +68,19 @@
 &lt;/p&gt;
 &lt;p&gt;I am now going to a more technical topic: AI. Everything is about AI these days. The improvement around &lt;a href=&#34;https://en.wikipedia.org/wiki/Large_language_model&#34;&gt;LLM&lt;/a&gt; (large language model) greatly boosted that topic. Understanding how they work is essential to understanding what they could be used for, where they aren&amp;rsquo;t a good idea, what security risks they pose, and all the other questions one should ask when looking at new technologies.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve found &lt;a href=&#34;https://en.wikipedia.org/wiki/Stephen_Wolfram&#34;&gt;Stephen Wolfram&lt;/a&gt;&amp;rsquo;s book easy to understand, and it explains the basis of how LLMs work. Also, you can be sure of the technical accuracy coming from him. Since it&amp;rsquo;s &lt;a href=&#34;https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/&#34;&gt;available for free online&lt;/a&gt;, there&amp;rsquo;s no reason not to read it. It will provide you with the knowledge required to discuss this technology and see where it could be helpful for whatever you&amp;rsquo;re building.&lt;/p&gt;
+&lt;h1 id=&#34;the-phoenix-project-a-novel-about-it-devops-and-helping-your-business-win&#34;&gt;The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win&lt;/h1&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://laurentparenteau.com/assets/phoenix_project.jpeg&#34;
+  alt=&#34;The Phoenix Project cover&#34;
+  loading=&#34;lazy&#34;
+  decoding=&#34;async&#34;
+  class=&#34;full-width&#34;
+/&gt;
+
+&lt;/p&gt;
+&lt;p&gt;If you want a great explanation of DevOps, then this is the one for you. It&amp;rsquo;s a fiction story in the IT world that allows you to see and learn all the fundamentals of DevOps. It&amp;rsquo;s not technical, which likely explains why it&amp;rsquo;s still good more than 10 years later.&lt;/p&gt;
+&lt;p&gt;DevOps is (like agile) a term passed around left and right, and you wonder if its meaning has been lost. When someone mentions DevOps, you can&amp;rsquo;t be sure if that&amp;rsquo;s what they are talking about or not. Many places have diluted it to nothing more than using a few tools (again, you can see the parallel with what many people think agile is).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/realgenekim/&#34;&gt;Gene Kim&lt;/a&gt;&amp;rsquo;s characters are stereotyped, and everything ends well. It&amp;rsquo;s a nice is fiction 😉. While keeping that in mind, to be sure you understand what DevOps is all about, look no further.&lt;/p&gt;
 </description>
       <author>Laurent Parenteau</author>
       <guid>https://laurentparenteau.com/posts/top-5-engineering-leadership-books-in-2024/</guid>
