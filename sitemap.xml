@@ -3,22 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://laurentparenteau.com/</loc>
-    <lastmod>2024-12-18T14:09:15-05:00</lastmod>
+    <lastmod>2025-01-22T10:28:51-05:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://laurentparenteau.com/tags/books/</loc>
-    <lastmod>2024-12-18T14:09:15-05:00</lastmod>
+    <loc>https://laurentparenteau.com/tags/complexity/</loc>
+    <lastmod>2025-01-22T10:28:51-05:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/tags/leadership/</loc>
-    <lastmod>2024-12-18T14:09:15-05:00</lastmod>
+    <lastmod>2025-01-22T10:28:51-05:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/tags/management/</loc>
-    <lastmod>2024-12-18T14:09:15-05:00</lastmod>
+    <lastmod>2025-01-22T10:28:51-05:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/tags/strategy/</loc>
+    <lastmod>2025-01-22T10:28:51-05:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/tags/</loc>
-    <lastmod>2024-12-18T14:09:15-05:00</lastmod>
+    <lastmod>2025-01-22T10:28:51-05:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/posts/</loc>
+    <lastmod>2025-01-22T10:28:51-05:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/tags/tools/</loc>
+    <lastmod>2025-01-22T10:28:51-05:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/posts/your-goals-need-room-to-breathe-a-framework-for-engineering-leaders/</loc>
+    <lastmod>2025-01-22T10:28:51-05:00</lastmod>
+  </url><url>
+    <loc>https://laurentparenteau.com/tags/books/</loc>
     <lastmod>2024-12-18T14:09:15-05:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/posts/top-5-engineering-leadership-books-in-2024/</loc>
@@ -27,16 +39,10 @@
     <loc>https://laurentparenteau.com/tags/agile/</loc>
     <lastmod>2024-10-16T13:48:09-04:00</lastmod>
   </url><url>
-    <loc>https://laurentparenteau.com/tags/complexity/</loc>
-    <lastmod>2024-10-16T13:48:09-04:00</lastmod>
-  </url><url>
     <loc>https://laurentparenteau.com/posts/escaping-the-valley-of-death-gradient-descent-strategies-for-startup-survival/</loc>
     <lastmod>2024-10-16T13:48:09-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/tags/startup/</loc>
-    <lastmod>2024-10-16T13:48:09-04:00</lastmod>
-  </url><url>
-    <loc>https://laurentparenteau.com/tags/strategy/</loc>
     <lastmod>2024-10-16T13:48:09-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/posts/the-ultimate-guide-to-product-market-fit/</loc>
@@ -52,9 +58,6 @@
     <lastmod>2024-08-20T16:43:42-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/posts/the-startup-prioritization-playbook-a-simple-framework-for-maximum-impact/</loc>
-    <lastmod>2024-08-16T14:40:19-04:00</lastmod>
-  </url><url>
-    <loc>https://laurentparenteau.com/tags/tools/</loc>
     <lastmod>2024-08-16T14:40:19-04:00</lastmod>
   </url><url>
     <loc>https://laurentparenteau.com/posts/simplification-the-key-to-scaling-engineering-in-fast-growing-startups/</loc>
